@@ -23,7 +23,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_ec04ff60ebf14570880c8f72708db6b0 {
+                #map_d5e641893ffe4fccb809dd3c3a6b5b5d {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -32,114 +32,127 @@
                 }
             </style>
         
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet-minimap/3.6.1/Control.MiniMap.css"/>
 </head>
 <body>    
     
-            <div class="folium-map" id="map_ec04ff60ebf14570880c8f72708db6b0" ></div>
+            <div class="folium-map" id="map_d5e641893ffe4fccb809dd3c3a6b5b5d" ></div>
         
 </body>
 <script>    
     
-            var map_ec04ff60ebf14570880c8f72708db6b0 = L.map(
-                "map_ec04ff60ebf14570880c8f72708db6b0",
+            var map_d5e641893ffe4fccb809dd3c3a6b5b5d = L.map(
+                "map_d5e641893ffe4fccb809dd3c3a6b5b5d",
                 {
-                    center: [37.782163, -122.400591],
+                    center: [48.8780596, 2.3283853],
                     crs: L.CRS.EPSG3857,
-                    zoom: 15,
+                    zoom: 14,
                     zoomControl: true,
                     preferCanvas: false,
                 }
             );
-            L.control.scale().addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+            L.control.scale().addTo(map_d5e641893ffe4fccb809dd3c3a6b5b5d);
 
             
 
         
     
-            var tile_layer_83560d0bb0b74d078d304849f9bdea0e = L.tileLayer(
+            var tile_layer_45db8af9b4ec4b729e6572073a2e60e0 = L.tileLayer(
                 "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
                 {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+            ).addTo(map_d5e641893ffe4fccb809dd3c3a6b5b5d);
         
     
-            var marker_fb06dc07cd34445f81fcb28b1a9f0b87 = L.marker(
-                [37.782163, -122.400591],
+            var marker_c2534cd3877a443b8f08c630ab107de6 = L.marker(
+                [48.8780596, 2.3283853],
                 {}
-            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+            ).addTo(map_d5e641893ffe4fccb809dd3c3a6b5b5d);
         
     
-            var icon_de7933c6525e44a48bb036a95d5026b1 = L.AwesomeMarkers.icon(
+            var icon_bc88cd250b404cb0bd609feb82b49f9f = L.AwesomeMarkers.icon(
                 {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
             );
-            marker_fb06dc07cd34445f81fcb28b1a9f0b87.setIcon(icon_de7933c6525e44a48bb036a95d5026b1);
+            marker_c2534cd3877a443b8f08c630ab107de6.setIcon(icon_bc88cd250b404cb0bd609feb82b49f9f);
         
     
-        var popup_3e9076b0cdb3460b91503f1372be624a = L.popup({"maxWidth": "100%"});
+        var popup_50ff0d9b78b44375879ccf30ede1427d = L.popup({"maxWidth": "100%"});
 
         
-            var html_85c02ea292b54f41a8bb6371030c34f2 = $(`<div id="html_85c02ea292b54f41a8bb6371030c34f2" style="width: 100.0%; height: 100.0%;">795 Folsom St, San Francisco, CA 94107, USA: Hay 41 empresas en un radio de 1000 metros</div>`)[0];
-            popup_3e9076b0cdb3460b91503f1372be624a.setContent(html_85c02ea292b54f41a8bb6371030c34f2);
+            var html_db0ff68bee774ba1a1d10b4ea2069fbe = $(`<div id="html_db0ff68bee774ba1a1d10b4ea2069fbe" style="width: 100.0%; height: 100.0%;">12 Rue d'Athènes, 75009 Paris, France: Hay 3 empresas en un radio de 1000 metros</div>`)[0];
+            popup_50ff0d9b78b44375879ccf30ede1427d.setContent(html_db0ff68bee774ba1a1d10b4ea2069fbe);
         
 
-        marker_fb06dc07cd34445f81fcb28b1a9f0b87.bindPopup(popup_3e9076b0cdb3460b91503f1372be624a)
+        marker_c2534cd3877a443b8f08c630ab107de6.bindPopup(popup_50ff0d9b78b44375879ccf30ede1427d)
         ;
 
         
     
     
-            var circle_3246bf038485412c81e544b02d6ee7be = L.circle(
-                [37.782163, -122.400591],
-                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1230, "stroke": true, "weight": 3}
-            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+            var circle_4d2f920d67dc435d9ffaab39d0eae094 = L.circle(
+                [48.8780596, 2.3283853],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 90, "stroke": true, "weight": 3}
+            ).addTo(map_d5e641893ffe4fccb809dd3c3a6b5b5d);
         
     
-            var marker_a7f4f080940f4cb7b970a5e6a4384a0f = L.marker(
-                [37.7865199, -122.4021779],
+            var marker_d9ff2733e5b441409fcf59f197b9787c = L.marker(
+                [48.8786213, 2.3253448],
                 {}
-            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+            ).addTo(map_d5e641893ffe4fccb809dd3c3a6b5b5d);
         
     
-            var icon_56a24aff50964190bbef53f025c33889 = L.AwesomeMarkers.icon(
+            var icon_b5d3d21beac04252bff50881413a117a = L.AwesomeMarkers.icon(
                 {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "darkpurple", "prefix": "glyphicon"}
             );
-            marker_a7f4f080940f4cb7b970a5e6a4384a0f.setIcon(icon_56a24aff50964190bbef53f025c33889);
+            marker_d9ff2733e5b441409fcf59f197b9787c.setIcon(icon_b5d3d21beac04252bff50881413a117a);
         
     
-        var popup_0a1d0e6639d14d58a36dbd8641983008 = L.popup({"maxWidth": "100%"});
+        var popup_78bb0b297ce84b16a4183ac98d117c04 = L.popup({"maxWidth": "100%"});
 
         
-            var html_a03aba69d20b4080a44ed1791e02ae86 = $(`<div id="html_a03aba69d20b4080a44ed1791e02ae86" style="width: 100.0%; height: 100.0%;">Spaces Mission and 3rd</div>`)[0];
-            popup_0a1d0e6639d14d58a36dbd8641983008.setContent(html_a03aba69d20b4080a44ed1791e02ae86);
+            var html_6cbb1add73ba4027b4160e5defc85112 = $(`<div id="html_6cbb1add73ba4027b4160e5defc85112" style="width: 100.0%; height: 100.0%;">Spaces - Saint Lazare</div>`)[0];
+            popup_78bb0b297ce84b16a4183ac98d117c04.setContent(html_6cbb1add73ba4027b4160e5defc85112);
         
 
-        marker_a7f4f080940f4cb7b970a5e6a4384a0f.bindPopup(popup_0a1d0e6639d14d58a36dbd8641983008)
+        marker_d9ff2733e5b441409fcf59f197b9787c.bindPopup(popup_78bb0b297ce84b16a4183ac98d117c04)
         ;
 
         
     
     
-            var marker_fe534857a8804c96a92730c8dc25779d = L.marker(
-                [37.78446, -122.40385],
+            var marker_6ac0185a66a945e5b530bb09e6696ca5 = L.marker(
+                [48.8819066, 2.3255949],
                 {}
-            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+            ).addTo(map_d5e641893ffe4fccb809dd3c3a6b5b5d);
         
     
-            var icon_a94d3bdb85d54ba4b578089f9ce7a061 = L.AwesomeMarkers.icon(
+            var icon_479f94d35ec9468cb1549b6f5af8c06a = L.AwesomeMarkers.icon(
                 {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
             );
-            marker_fe534857a8804c96a92730c8dc25779d.setIcon(icon_a94d3bdb85d54ba4b578089f9ce7a061);
+            marker_6ac0185a66a945e5b530bb09e6696ca5.setIcon(icon_479f94d35ec9468cb1549b6f5af8c06a);
         
     
-        var popup_f6c4cc5dd3e34647a5d5f0e31439361b = L.popup({"maxWidth": "100%"});
+        var popup_4f73eac6b70c4df6aaaf94b6d3b332d8 = L.popup({"maxWidth": "100%"});
 
         
-            var html_e56872c81c2144faa601c7a127564364 = $(`<div id="html_e56872c81c2144faa601c7a127564364" style="width: 100.0%; height: 100.0%;">startbucks</div>`)[0];
-            popup_f6c4cc5dd3e34647a5d5f0e31439361b.setContent(html_e56872c81c2144faa601c7a127564364);
+            var html_b4128bc0233147aa8736b811b1f0ac26 = $(`<div id="html_b4128bc0233147aa8736b811b1f0ac26" style="width: 100.0%; height: 100.0%;">laundry</div>`)[0];
+            popup_4f73eac6b70c4df6aaaf94b6d3b332d8.setContent(html_b4128bc0233147aa8736b811b1f0ac26);
         
 
-        marker_fe534857a8804c96a92730c8dc25779d.bindPopup(popup_f6c4cc5dd3e34647a5d5f0e31439361b)
+        marker_6ac0185a66a945e5b530bb09e6696ca5.bindPopup(popup_4f73eac6b70c4df6aaaf94b6d3b332d8)
         ;
 
         
     
+    
+            var tile_layer_147b30b3c7774292b1d0b762bee8510b = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+            var mini_map_1da2398842a845d4ba3bc85716ce56e8 = new L.Control.MiniMap(
+                tile_layer_147b30b3c7774292b1d0b762bee8510b,
+                {"autoToggleDisplay": false, "centerFixed": false, "collapsedHeight": 25, "collapsedWidth": 25, "height": 150, "minimized": false, "position": "bottomright", "toggleDisplay": false, "width": 150, "zoomAnimation": false, "zoomLevelOffset": -5}
+            );
+            map_d5e641893ffe4fccb809dd3c3a6b5b5d.addControl(mini_map_1da2398842a845d4ba3bc85716ce56e8);
+        
 </script>
