@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ec04ff60ebf14570880c8f72708db6b0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_ec04ff60ebf14570880c8f72708db6b0" ></div>
+        
+</body>
+<script>    
+    
+            var map_ec04ff60ebf14570880c8f72708db6b0 = L.map(
+                "map_ec04ff60ebf14570880c8f72708db6b0",
+                {
+                    center: [37.782163, -122.400591],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+            L.control.scale().addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+
+            
+
+        
+    
+            var tile_layer_83560d0bb0b74d078d304849f9bdea0e = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+        
+    
+            var marker_fb06dc07cd34445f81fcb28b1a9f0b87 = L.marker(
+                [37.782163, -122.400591],
+                {}
+            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+        
+    
+            var icon_de7933c6525e44a48bb036a95d5026b1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_fb06dc07cd34445f81fcb28b1a9f0b87.setIcon(icon_de7933c6525e44a48bb036a95d5026b1);
+        
+    
+        var popup_3e9076b0cdb3460b91503f1372be624a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_85c02ea292b54f41a8bb6371030c34f2 = $(`<div id="html_85c02ea292b54f41a8bb6371030c34f2" style="width: 100.0%; height: 100.0%;">795 Folsom St, San Francisco, CA 94107, USA: Hay 41 empresas en un radio de 1000 metros</div>`)[0];
+            popup_3e9076b0cdb3460b91503f1372be624a.setContent(html_85c02ea292b54f41a8bb6371030c34f2);
+        
+
+        marker_fb06dc07cd34445f81fcb28b1a9f0b87.bindPopup(popup_3e9076b0cdb3460b91503f1372be624a)
+        ;
+
+        
+    
+    
+            var circle_3246bf038485412c81e544b02d6ee7be = L.circle(
+                [37.782163, -122.400591],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1230, "stroke": true, "weight": 3}
+            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+        
+    
+            var marker_a7f4f080940f4cb7b970a5e6a4384a0f = L.marker(
+                [37.7865199, -122.4021779],
+                {}
+            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+        
+    
+            var icon_56a24aff50964190bbef53f025c33889 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "darkpurple", "prefix": "glyphicon"}
+            );
+            marker_a7f4f080940f4cb7b970a5e6a4384a0f.setIcon(icon_56a24aff50964190bbef53f025c33889);
+        
+    
+        var popup_0a1d0e6639d14d58a36dbd8641983008 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_a03aba69d20b4080a44ed1791e02ae86 = $(`<div id="html_a03aba69d20b4080a44ed1791e02ae86" style="width: 100.0%; height: 100.0%;">Spaces Mission and 3rd</div>`)[0];
+            popup_0a1d0e6639d14d58a36dbd8641983008.setContent(html_a03aba69d20b4080a44ed1791e02ae86);
+        
+
+        marker_a7f4f080940f4cb7b970a5e6a4384a0f.bindPopup(popup_0a1d0e6639d14d58a36dbd8641983008)
+        ;
+
+        
+    
+    
+            var marker_fe534857a8804c96a92730c8dc25779d = L.marker(
+                [37.78446, -122.40385],
+                {}
+            ).addTo(map_ec04ff60ebf14570880c8f72708db6b0);
+        
+    
+            var icon_a94d3bdb85d54ba4b578089f9ce7a061 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "home", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_fe534857a8804c96a92730c8dc25779d.setIcon(icon_a94d3bdb85d54ba4b578089f9ce7a061);
+        
+    
+        var popup_f6c4cc5dd3e34647a5d5f0e31439361b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e56872c81c2144faa601c7a127564364 = $(`<div id="html_e56872c81c2144faa601c7a127564364" style="width: 100.0%; height: 100.0%;">startbucks</div>`)[0];
+            popup_f6c4cc5dd3e34647a5d5f0e31439361b.setContent(html_e56872c81c2144faa601c7a127564364);
+        
+
+        marker_fe534857a8804c96a92730c8dc25779d.bindPopup(popup_f6c4cc5dd3e34647a5d5f0e31439361b)
+        ;
+
+        
+    
+</script>
