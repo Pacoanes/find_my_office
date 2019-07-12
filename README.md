@@ -16,6 +16,7 @@ Final      | Una función que permite elegir ciudad, radio de cercania a otras e
 **La finalidad** es conseguir una localización donde se encuentren el mayor número de empresas posibles con una recaudación alta para así poder tener mas posiblidades de crecimiento. 
 
 
+
 **Recursos empleados:** 
 ___
 
@@ -27,4 +28,6 @@ Meetup API |  Para poder conocer eventos geolocalizados cerca y filtrados por te
 GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa tiene mas empresas cerca con un radio determinado.
 
 **Resultado final:** 
+___
 
+(https://github.com/Pacoanes/find_my_office/blob/master/Map.png)
