@@ -20,14 +20,14 @@ Final      | Una función que permite elegir ciudad, radio de cercania a otras e
 **Recursos empleados:** 
 ___
 
-Recursos  | Descripción 
----------- | ----------- 
+Recursos  | Descripción    Logo 
+---------- | ----------- | ----
 Folium     | Todos los mapas han sido realizados en Folium.
 Google Places API | Usamos esta API encontrar una oficina real en la locación ideal y para encontrar puntos de interes cercanos.
-Meetup API |  Para poder conocer eventos geolocalizados cerca y filtrados por temática.
+Meetup API |  Para poder conocer eventos geolocalizados cerca y filtrados por temática. | ![Meetup for Android logo](https://theme.zdassets.com/theme_assets/2041222/c3ea09fd3c3bd646257ea97a6083bf5f45807354.png)
 GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa tiene mas empresas cerca con un radio determinado.
 
 **Resultado final:** 
 ___
 
-(https://github.com/Pacoanes/find_my_office/blob/master/Map.png)
+![mapa](https://github.com/Pacoanes/find_my_office/blob/master/Map.png)
