@@ -22,7 +22,7 @@ ___
 
 Recursos   | Descripción | Logo 
 ---------- | ----------- | ----
-Folium     | Todos los mapas han sido realizados en Folium. |![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/folium.png)
+Folium     | Todos los mapas han sido realizados en Folium. |![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/folium.jpg)
 Google Places API | Usamos esta API encontrar una oficina real en la locación ideal y para encontrar puntos de interes cercanos. | ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/gapi.png)
 Meetup API |  Para poder conocer eventos geolocalizados cerca y filtrados por temática. | ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/meetup.png)
 GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa tiene mas empresas cerca con un radio determinado. | ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/mongodb.png)
@@ -31,6 +31,7 @@ GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa ti
 ___
 
 ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/map.png)
+![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/top15ciudades.png)
 
 
 
