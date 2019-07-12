@@ -96,7 +96,7 @@
 94,introNetworks,-119.641821,34.42071,"{'type': 'Point', 'coordinates': [-119.641821, 34.42071]}",1,web,11,2003.0,2700000.0,Montecito
 95,Wallhogs,-79.462703,40.30305,"{'type': 'Point', 'coordinates': [-79.462703, 40.30305]}",1,public_relations,52,2006.0,0.0,Greensburg
 96,Respectance,-122.321836,37.55909,"{'type': 'Point', 'coordinates': [-122.321836, 37.55909]}",1,web,15,2006.0,1750000.0,San Mateo
-97,eBuddy,4.8919457,52.3640933,"{'type': 'Point', 'coordinates': [4.8919457, 52.3640933]}",3,messaging,90,2003.0,12903000.000694182,Amsterdam
+97,eBuddy,4.8919457,52.3640933,"{'type': 'Point', 'coordinates': [4.8919457, 52.3640933]}",3,messaging,90,2003.0,12977749.999604827,Amsterdam
 98,Grockit,-122.419204,37.775196,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",1,social,25,2006.0,44700000.0,San Francisco
 99,Kiptronic,-122.402349,37.792394,"{'type': 'Point', 'coordinates': [-122.402349, 37.792394]}",1,advertising,20,2005.0,7300000.0,San Francisco
 100,FeVote,-122.417928,37.779392,"{'type': 'Point', 'coordinates': [-122.417928, 37.779392]}",1,web,1,2007.0,0.0,San Francisco
@@ -134,7 +134,7 @@
 132,Flock,-122.228843,37.491356,"{'type': 'Point', 'coordinates': [-122.228843, 37.491356]}",1,web,40,2005.0,28300000.0,Menlo Park
 133,webcrossing,-122.399646,37.794649,"{'type': 'Point', 'coordinates': [-122.399646, 37.794649]}",1,web,10,,0.0,San Francisco
 134,Sportingo,-96.76492,17.08881,"{'type': 'Point', 'coordinates': [-96.76492, 17.08881]}",1,web,0,2006.0,3200000.0,
-135,Curverider,-1.197534,51.785428,"{'type': 'Point', 'coordinates': [-1.197534, 51.785428]}",1,network_hosting,5,2005.0,374299.4395531397,London
+135,Curverider,-1.197534,51.785428,"{'type': 'Point', 'coordinates': [-1.197534, 51.785428]}",1,network_hosting,5,2005.0,377046.4417138806,London
 136,Negonation,-3.74922,40.463667,"{'type': 'Point', 'coordinates': [-3.74922, 40.463667]}",1,web,3,,0.0,
 137,Akamai Technologies,-71.08907,42.364059,"{'type': 'Point', 'coordinates': [-71.08907, 42.364059]}",1,enterprise,1000,1998.0,0.0,Cambridge
 138,Weebly,-122.400729,37.795555,"{'type': 'Point', 'coordinates': [-122.400729, 37.795555]}",1,web,70,2006.0,670000.0,San Francisco
@@ -153,7 +153,7 @@
 151,Sun Microsystems,-121.955463,37.394791,"{'type': 'Point', 'coordinates': [-121.955463, 37.394791]}",1,enterprise,33350,1982.0,0.0,Santa Clara
 152,MySpace,-118.372953,34.076061,"{'type': 'Point', 'coordinates': [-118.372953, 34.076061]}",1,network_hosting,800,2003.0,0.0,Beverly Hills
 153,Docstoc,-118.495025,34.018275,"{'type': 'Point', 'coordinates': [-118.495025, 34.018275]}",1,web,40,2007.0,4000000.0,Santa Monica
-154,ZYB,12.541484,55.699123,"{'type': 'Point', 'coordinates': [12.541484, 55.699123]}",1,mobile,25,,3366000.000181091,Copenhagen
+154,ZYB,12.541484,55.699123,"{'type': 'Point', 'coordinates': [12.541484, 55.699123]}",1,mobile,25,,3385499.9998969114,Copenhagen
 155,NewsGator,-104.988123,39.755092,"{'type': 'Point', 'coordinates': [-104.988123, 39.755092]}",1,enterprise,90,2004.0,39300000.0,Denver
 156,Friendster,101.686855,3.139003,"{'type': 'Point', 'coordinates': [101.686855, 3.139003]}",1,web,70,2001.0,48500000.0,Kuala Lumpur
 157,Greystripe,-122.39323,37.710677,"{'type': 'Point', 'coordinates': [-122.39323, 37.710677]}",1,advertising,90,2005.0,17600000.0,San Francisco
@@ -163,7 +163,7 @@
 161,TubeMogul,-122.286493,37.836957,"{'type': 'Point', 'coordinates': [-122.286493, 37.836957]}",1,advertising,230,2006.0,53200000.0,Emeryville
 162,Sportsline,-95.712891,37.09024,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",1,web,264,1994.0,0.0,Fort Lauderdale
 163,OpenTable,-122.405265,37.785647,"{'type': 'Point', 'coordinates': [-122.405265, 37.785647]}",1,web,550,1998.0,48000000.0,San Francisco
-164,Seedcamp,-0.1418973,51.5108803,"{'type': 'Point', 'coordinates': [-0.1418973, 51.5108803]}",1,finance,4,2007.0,5610000.000301818,London
+164,Seedcamp,-0.1418973,51.5108803,"{'type': 'Point', 'coordinates': [-0.1418973, 51.5108803]}",1,finance,4,2007.0,5642499.999828186,London
 165,Espotting,-95.712891,37.09024,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",1,advertising,250,2000.0,0.0,
 166,MocoSpace,-71.058768,42.350274,"{'type': 'Point', 'coordinates': [-71.058768, 42.350274]}",1,games_video,25,2005.0,10500000.0,Boston
 167,LocaModa,-71.104329,42.358822,"{'type': 'Point', 'coordinates': [-71.104329, 42.358822]}",1,advertising,0,2007.0,7900000.0,Cambridge
@@ -255,7 +255,7 @@
 253,Whiskey Media,-122.495222,37.856331,"{'type': 'Point', 'coordinates': [-122.495222, 37.856331]}",1,web,12,2007.0,4000000.0,San Francisco
 254,alluc,10.023246,53.707739,"{'type': 'Point', 'coordinates': [10.023246, 53.707739]}",1,games_video,7,2009.0,0.0,Norderstedt
 255,JibJab,-118.468458,34.011335,"{'type': 'Point', 'coordinates': [-118.468458, 34.011335]}",1,web,37,1999.0,17900000.0,Venice
-256,Fon,-3.632687,40.530724,"{'type': 'Point', 'coordinates': [-3.632687, 40.530724]}",1,mobile,100,2006.0,49368000.002656,Madrid
+256,Fon,-3.632687,40.530724,"{'type': 'Point', 'coordinates': [-3.632687, 40.530724]}",1,mobile,100,2006.0,49653999.99848803,Madrid
 257,Polyvore,-122.083487,37.386175,"{'type': 'Point', 'coordinates': [-122.083487, 37.386175]}",1,web,73,2007.0,22100000.0,Mountain View
 258,23andMe,-95.712891,37.09024,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",1,biotech,80,2006.0,161000000.0,Mountain View
 259,Woophy,4.5188631,51.9562996,"{'type': 'Point', 'coordinates': [4.5188631, 51.9562996]}",1,web,0,2005.0,0.0,Rotterdam
@@ -286,12 +286,12 @@
 284,Defensio,-73.639076,45.545447,"{'type': 'Point', 'coordinates': [-73.639076, 45.545447]}",1,security,3,2007.0,0.0,Montreal
 285,FilmCrave,-94.370901,38.977092,"{'type': 'Point', 'coordinates': [-94.370901, 38.977092]}",1,games_video,3,2007.0,0.0,
 286,DraftMix,-121.956295,37.279132,"{'type': 'Point', 'coordinates': [-121.956295, 37.279132]}",1,games_video,3,2007.0,0.0,Campbell
-287,Plazes,13.398694,52.523402,"{'type': 'Point', 'coordinates': [13.398694, 52.523402]}",1,web,15,2006.0,4151400.0002233456,Berlin
+287,Plazes,13.398694,52.523402,"{'type': 'Point', 'coordinates': [13.398694, 52.523402]}",1,web,15,2006.0,4175449.9998728572,Berlin
 288,StylePath,-71.288568,42.402378,"{'type': 'Point', 'coordinates': [-71.288568, 42.402378]}",1,web,4,2007.0,0.0,Lincoln
 289,GotCast,-118.468672,34.064139,"{'type': 'Point', 'coordinates': [-118.468672, 34.064139]}",1,games_video,5,2007.0,50000.0,Los Angleles
 290,BrainKeeper,-77.4582,38.84919,"{'type': 'Point', 'coordinates': [-77.4582, 38.84919]}",1,web,10,2005.0,0.0,Centreville
 291,Yedda,34.7595,32.0554,"{'type': 'Point', 'coordinates': [34.7595, 32.0554]}",1,web,5,2006.0,2500000.0,Tel Aviv
-292,Evi,0.130647,52.195668,"{'type': 'Point', 'coordinates': [0.130647, 52.195668]}",1,search,25,2005.0,3243928.4761272105,Cambridge
+292,Evi,0.130647,52.195668,"{'type': 'Point', 'coordinates': [0.130647, 52.195668]}",1,search,25,2005.0,3267735.8281869646,Cambridge
 293,Compete,-71.076632,42.346743,"{'type': 'Point', 'coordinates': [-71.076632, 42.346743]}",1,consulting,0,2000.0,33000000.0,Boston
 294,RepairPal,-122.296411,37.838225,"{'type': 'Point', 'coordinates': [-122.296411, 37.838225]}",1,web,25,2007.0,21300000.0,Emeryville
 295,Dipity,-122.394958,37.781262,"{'type': 'Point', 'coordinates': [-122.394958, 37.781262]}",1,web,4,2007.0,900000.0,San Francisco
@@ -388,15 +388,15 @@
 386,WAYN,-0.126236,51.500152,"{'type': 'Point', 'coordinates': [-0.126236, 51.500152]}",1,network_hosting,42,2002.0,11000000.0,London
 387,Webnode,16.5692822,49.2259017,"{'type': 'Point', 'coordinates': [16.5692822, 49.2259017]}",1,network_hosting,30,2008.0,0.0,Brno
 388,Frevvo,-95.712891,37.09024,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",1,web,10,2007.0,500000.0,
-389,UnLtdWorld,-0.0926903,51.522413,"{'type': 'Point', 'coordinates': [-0.0926903, 51.522413]}",1,enterprise,4,2007.0,311916.19962761644,London
+389,UnLtdWorld,-0.0926903,51.522413,"{'type': 'Point', 'coordinates': [-0.0926903, 51.522413]}",1,enterprise,4,2007.0,314205.36809490045,London
 390,Boobik,-95.712891,37.09024,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",1,web,3,2007.0,0.0,
 391,Scrabulous,88.363895,22.572646,"{'type': 'Point', 'coordinates': [88.363895, 22.572646]}",1,games_video,30,2006.0,0.0,Kolkata
-392,Twingly,15.625419,58.415755,"{'type': 'Point', 'coordinates': [15.625419, 58.415755]}",1,search,12,2006.0,1122000.0000603637,Linkoping
+392,Twingly,15.625419,58.415755,"{'type': 'Point', 'coordinates': [15.625419, 58.415755]}",1,search,12,2006.0,1128499.9999656372,Linkoping
 393,HouseFront,-105.01277,39.758126,"{'type': 'Point', 'coordinates': [-105.01277, 39.758126]}",1,web,0,2006.0,0.0,Denver
 394,Blogonize,-105.139804,39.851338,"{'type': 'Point', 'coordinates': [-105.139804, 39.851338]}",1,web,1,2007.0,0.0,Arvada
 395,ReimagineMemories,-118.691285,34.280555,"{'type': 'Point', 'coordinates': [-118.691285, 34.280555]}",1,web,2,2005.0,0.0,Simi Valley
-396,XING,9.98793,53.555554,"{'type': 'Point', 'coordinates': [9.98793, 53.555554]}",1,network_hosting,500,2003.0,6395400.0003440725,Hamburg
-397,Proximic,-122.406676,37.766909,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",1,analytics,20,2006.0,10614120.00057104,Palo Alto
+396,XING,9.98793,53.555554,"{'type': 'Point', 'coordinates': [9.98793, 53.555554]}",1,network_hosting,500,2003.0,6432449.999804132,Hamburg
+397,Proximic,-122.406676,37.766909,"{'type': 'Point', 'coordinates': [-122.406676, 37.766909]}",1,analytics,20,2006.0,10675609.999674927,Palo Alto
 398,Roost,-122.4020276,37.7891288,"{'type': 'Point', 'coordinates': [-122.4020276, 37.7891288]}",1,software,15,2007.0,13500000.0,San Francisco
 399,Endeca,-71.081527,42.36233,"{'type': 'Point', 'coordinates': [-71.081527, 42.36233]}",1,search,500,,65000000.0,Cambridge
 400,WorldTV,-8.6267726,52.6638571,"{'type': 'Point', 'coordinates': [-8.6267726, 52.6638571]}",2,games_video,5,2006.0,1000000.0,Limerick
@@ -631,7 +631,7 @@
 629,Randomate,-79.400514,43.706953,"{'type': 'Point', 'coordinates': [-79.400514, 43.706953]}",1,network_hosting,1,,0.0,Toronto
 630,doXtop,9.2223731,48.7243517,"{'type': 'Point', 'coordinates': [9.2223731, 48.7243517]}",1,software,5,2007.0,0.0,Ostfildern
 631,Toluna,2.2827232,48.8975883,"{'type': 'Point', 'coordinates': [2.2827232, 48.8975883]}",1,web,700,,0.0,Levallois Perret
-632,PacketFront,18.064488,59.332788,"{'type': 'Point', 'coordinates': [18.064488, 59.332788]}",1,software,170,2001.0,29172000.001569454,Stockholm
+632,PacketFront,18.064488,59.332788,"{'type': 'Point', 'coordinates': [18.064488, 59.332788]}",1,software,170,2001.0,29340999.999106564,Stockholm
 633,ShoutWire,-79.420926,38.003376,"{'type': 'Point', 'coordinates': [-79.420926, 38.003376]}",1,web,9,2003.0,500000.0,
 634,Taltopia,-118.243425,34.052187,"{'type': 'Point', 'coordinates': [-118.243425, 34.052187]}",1,games_video,3,2007.0,800000.0,Los Angeles
 635,Tripology,-73.983969,40.746883,"{'type': 'Point', 'coordinates': [-73.983969, 40.746883]}",1,web,9,2006.0,1250000.0,New York
@@ -778,7 +778,7 @@
 776,3Tera,-117.723248,33.568509,"{'type': 'Point', 'coordinates': [-117.723248, 33.568509]}",1,enterprise,25,2004.0,0.0,Aliso Viejo
 777,Bonobos,-73.9954585,40.7384997,"{'type': 'Point', 'coordinates': [-73.9954585, 40.7384997]}",1,ecommerce,150,2007.0,74700000.0,New York
 778,Attentio,4.366056,50.866473,"{'type': 'Point', 'coordinates': [4.366056, 50.866473]}",1,analytics,30,2004.0,786000.0,Brussels
-779,Noovo,-122.155678,37.446382,"{'type': 'Point', 'coordinates': [-122.155678, 37.446382]}",1,web,8,2008.0,336600.0000181091,Palo Alto
+779,Noovo,-122.155678,37.446382,"{'type': 'Point', 'coordinates': [-122.155678, 37.446382]}",1,web,8,2008.0,338549.99998969113,Palo Alto
 780,Edmodo,-88.321171,41.857915,"{'type': 'Point', 'coordinates': [-88.321171, 41.857915]}",1,education,100,2008.0,40000000.0,San Mateo
 781,Forrester Research,-71.092378,42.3632,"{'type': 'Point', 'coordinates': [-71.092378, 42.3632]}",1,consulting,903,1983.0,0.0,Cambridge
 782,stickychicken,-122.419204,37.775196,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",1,games_video,2,2008.0,0.0,San Francisco
@@ -794,7 +794,7 @@
 792,Adlucent,-97.71813,30.316226,"{'type': 'Point', 'coordinates': [-97.71813, 30.316226]}",1,software,85,2005.0,0.0,Austin
 793,CapAlly,-87.643545,41.882865,"{'type': 'Point', 'coordinates': [-87.643545, 41.882865]}",1,other,4,2007.0,0.0,Chicago
 794,Omgili,34.7913031,32.0706393,"{'type': 'Point', 'coordinates': [34.7913031, 32.0706393]}",1,search,30,2007.0,600000.0,Tel Aviv
-795,School of Everything,-0.053981,51.528817,"{'type': 'Point', 'coordinates': [-0.053981, 51.528817]}",1,web,8,2007.0,436682.67947866296,London
+795,School of Everything,-0.053981,51.528817,"{'type': 'Point', 'coordinates': [-0.053981, 51.528817]}",1,web,8,2007.0,439887.51533286064,London
 796,Search Marketing,-8.224454,39.399872,"{'type': 'Point', 'coordinates': [-8.224454, 39.399872]}",1,web,10,,0.0,
 797,Xteque,9.203316,45.461552,"{'type': 'Point', 'coordinates': [9.203316, 45.461552]}",1,web,2,2006.0,0.0,Milan
 798,Meck Technology,-73.99726,40.76126,"{'type': 'Point', 'coordinates': [-73.99726, 40.76126]}",1,software,3,2003.0,0.0,New York
@@ -842,7 +842,7 @@
 840,Support Intelligence,-122.42215,37.767569,"{'type': 'Point', 'coordinates': [-122.42215, 37.767569]}",1,network_hosting,10,2005.0,0.0,San Francisco
 841,Sogeti USA,-84.181175,39.631175,"{'type': 'Point', 'coordinates': [-84.181175, 39.631175]}",1,software,2500,2001.0,0.0,Dayton
 842,iRise,-118.3812173,33.9019812,"{'type': 'Point', 'coordinates': [-118.3812173, 33.9019812]}",1,software,150,1997.0,20000000.0,El Segundo
-843,MADS,4.8946071,52.3637746,"{'type': 'Point', 'coordinates': [4.8946071, 52.3637746]}",1,advertising,20,2006.0,1963500.0001056364,Amsterdam
+843,MADS,4.8946071,52.3637746,"{'type': 'Point', 'coordinates': [4.8946071, 52.3637746]}",1,advertising,20,2006.0,1974874.999939865,Amsterdam
 844,Boxbe,-122.442592,37.800209,"{'type': 'Point', 'coordinates': [-122.442592, 37.800209]}",1,web,3,2005.0,1500000.0,San Francisco
 845,FinFolio,-115.154816,36.136552,"{'type': 'Point', 'coordinates': [-115.154816, 36.136552]}",1,software,3,2008.0,0.0,Las Vegas
 846,PWG Design,-122.358748,48.396978,"{'type': 'Point', 'coordinates': [-122.358748, 48.396978]}",1,web,6,1999.0,0.0,Mount Vernon
@@ -852,14 +852,14 @@
 850,Artabase,144.99974,-37.803294,"{'type': 'Point', 'coordinates': [144.99974, -37.803294]}",1,network_hosting,4,2004.0,150000.0,"Southbank,  VIC"
 851,Nsyght,-0.3387433,51.4751999,"{'type': 'Point', 'coordinates': [-0.3387433, 51.4751999]}",1,web,4,2007.0,0.0,Isleworth
 852,Fourth Media Technologies,-101.256663,35.06108,"{'type': 'Point', 'coordinates': [-101.256663, 35.06108]}",1,software,20,2000.0,0.0,
-853,Moviestorm,0.130588,52.197471,"{'type': 'Point', 'coordinates': [0.130588, 52.197471]}",1,software,10,2005.0,5364958.633595002,Cambridge
+853,Moviestorm,0.130588,52.197471,"{'type': 'Point', 'coordinates': [0.130588, 52.197471]}",1,software,10,2005.0,5404332.331232288,Cambridge
 854,Top Site Of The Day,-102.108281,32.001003,"{'type': 'Point', 'coordinates': [-102.108281, 32.001003]}",1,advertising,5,2007.0,0.0,Midland
 855,Zogix,-0.56253,51.762918,"{'type': 'Point', 'coordinates': [-0.56253, 51.762918]}",1,software,2,2006.0,0.0,
 856,OpenRoad Communications,-123.109933,49.284521,"{'type': 'Point', 'coordinates': [-123.109933, 49.284521]}",1,software,30,1995.0,0.0,Vancouver
 857,Univa UD,-88.073008,41.808458,"{'type': 'Point', 'coordinates': [-88.073008, 41.808458]}",1,software,50,2004.0,33000000.0,Lisle
 858,FragMob,-118.36543,34.063441,"{'type': 'Point', 'coordinates': [-118.36543, 34.063441]}",1,software,12,2008.0,0.0,San Diego
 859,TrustedPlaces,-0.113583,51.524483,"{'type': 'Point', 'coordinates': [-0.113583, 51.524483]}",1,advertising,7,2006.0,1000000.0,London
-860,Trovit,2.1299487,41.388769,"{'type': 'Point', 'coordinates': [2.1299487, 41.388769]}",1,ecommerce,56,2006.0,673200.0000362182,Barcelona
+860,Trovit,2.1299487,41.388769,"{'type': 'Point', 'coordinates': [2.1299487, 41.388769]}",1,ecommerce,56,2006.0,677099.9999793823,Barcelona
 861,Shopflick,-118.419067,34.044939,"{'type': 'Point', 'coordinates': [-118.419067, 34.044939]}",1,ecommerce,10,2007.0,8000000.0,Los Angeles
 862,Reach Machines,-122.348937,47.618579,"{'type': 'Point', 'coordinates': [-122.348937, 47.618579]}",1,advertising,5,2007.0,0.0,Seattle
 863,PixelCrayons,77.087502,28.682042,"{'type': 'Point', 'coordinates': [77.087502, 28.682042]}",1,web,200,2004.0,0.0,New York
@@ -869,7 +869,7 @@
 867,BrightSale,-0.3272835,51.3552388,"{'type': 'Point', 'coordinates': [-0.3272835, 51.3552388]}",1,public_relations,5,2007.0,0.0,Surbiton
 868,LocalWineEvents,-75.471505,40.084161,"{'type': 'Point', 'coordinates': [-75.471505, 40.084161]}",1,web,5,2000.0,0.0,Malvern
 869,trymehere,-0.744466,51.287062,"{'type': 'Point', 'coordinates': [-0.744466, 51.287062]}",1,web,3,2006.0,0.0,"Farnborough, Hants"
-870,Logicalware,-3.215149,55.94862,"{'type': 'Point', 'coordinates': [-3.215149, 55.94862]}",1,software,20,2002.0,374299.4395531397,Edinburgh
+870,Logicalware,-3.215149,55.94862,"{'type': 'Point', 'coordinates': [-3.215149, 55.94862]}",1,software,20,2002.0,377046.4417138806,Edinburgh
 871,Palo Alto Software,-123.093173,44.049719,"{'type': 'Point', 'coordinates': [-123.093173, 44.049719]}",1,software,50,1988.0,0.0,Eugene
 872,Protecode,-75.834151,45.352255,"{'type': 'Point', 'coordinates': [-75.834151, 45.352255]}",1,software,20,2007.0,0.0,Ottawa
 873,Comcast,-75.1652518,39.9525762,"{'type': 'Point', 'coordinates': [-75.1652518, 39.9525762]}",1,games_video,100000,1963.0,725000000.0,Philadelphia
@@ -921,7 +921,7 @@
 919,Whois,103.875336,1.327062,"{'type': 'Point', 'coordinates': [103.875336, 1.327062]}",1,network_hosting,6,2007.0,600000.0,Singapore
 920,Pixifi,-75.034829,39.854388,"{'type': 'Point', 'coordinates': [-75.034829, 39.854388]}",1,web,1,2007.0,0.0,Magnolia
 921,Mirror42,4.896468,52.36702,"{'type': 'Point', 'coordinates': [4.896468, 52.36702]}",1,software,15,2004.0,1200000.0,Amsterdam
-922,Soocial,4.92319,52.3768747,"{'type': 'Point', 'coordinates': [4.92319, 52.3768747]}",1,mobile,4,2007.0,336600.0000181091,Amsterdam
+922,Soocial,4.92319,52.3768747,"{'type': 'Point', 'coordinates': [4.92319, 52.3768747]}",1,mobile,4,2007.0,338549.99998969113,Amsterdam
 923,CellSpin,-121.957018,37.421731,"{'type': 'Point', 'coordinates': [-121.957018, 37.421731]}",1,advertising,12,2006.0,2000000.0,San Jose
 924,Daptiv,-122.337437,47.604279,"{'type': 'Point', 'coordinates': [-122.337437, 47.604279]}",1,enterprise,150,1997.0,28500000.0,Seattle
 925,SocialSplash,-82.746457,27.975708,"{'type': 'Point', 'coordinates': [-82.746457, 27.975708]}",1,network_hosting,3,2007.0,0.0,Clearwater
@@ -959,7 +959,7 @@
 957,Lemonade,-73.421132,41.09673,"{'type': 'Point', 'coordinates': [-73.421132, 41.09673]}",1,ecommerce,4,2007.0,0.0,South Norwalk
 958,FeedFlix,-122.030476,37.35351,"{'type': 'Point', 'coordinates': [-122.030476, 37.35351]}",1,games_video,2,2007.0,0.0,Sunnyvale
 959,CheckDog,151.208754,-33.86616,"{'type': 'Point', 'coordinates': [151.208754, -33.86616]}",1,enterprise,5,2008.0,0.0,Sydney
-960,Whatever,4.6260441,50.6577563,"{'type': 'Point', 'coordinates': [4.6260441, 50.6577563]}",1,web,15,,561000.0000301818,Mont-Saint-Guibert
+960,Whatever,4.6260441,50.6577563,"{'type': 'Point', 'coordinates': [4.6260441, 50.6577563]}",1,web,15,,564249.9999828186,Mont-Saint-Guibert
 961,PlanetEye,-79.395471,43.646873,"{'type': 'Point', 'coordinates': [-79.395471, 43.646873]}",1,public_relations,40,2006.0,0.0,Toronto
 962,SuperVirals,151.209351,-33.88106,"{'type': 'Point', 'coordinates': [151.209351, -33.88106]}",1,games_video,5,2006.0,0.0,Surry Hills
 963,Dibzo,-80.114723,26.367481,"{'type': 'Point', 'coordinates': [-80.114723, 26.367481]}",1,web,2,,0.0,Boca Raton
@@ -1008,14 +1008,14 @@
 1006,TicketLeap,-75.179869,39.9512991,"{'type': 'Point', 'coordinates': [-75.179869, 39.9512991]}",1,ecommerce,25,2003.0,8660000.0,Philadelphia
 1007,Inovatis,7.664067,48.491885,"{'type': 'Point', 'coordinates': [7.664067, 48.491885]}",1,web,2,2005.0,0.0,Lipsheim
 1008,Zoomabet,-73.992152,40.754698,"{'type': 'Point', 'coordinates': [-73.992152, 40.754698]}",1,network_hosting,13,2006.0,0.0,NY
-1009,Iceberg,-6.267494,53.344104,"{'type': 'Point', 'coordinates': [-6.267494, 53.344104]}",1,enterprise,5,2006.0,448800.00002414547,Dublin
+1009,Iceberg,-6.267494,53.344104,"{'type': 'Point', 'coordinates': [-6.267494, 53.344104]}",1,enterprise,5,2006.0,451399.99998625484,Dublin
 1010,New Relic,-119.306607,37.269175,"{'type': 'Point', 'coordinates': [-119.306607, 37.269175]}",1,software,63,2008.0,175000000.0,San Francisco
 1011,Luminotes,-122.278022,47.683612,"{'type': 'Point', 'coordinates': [-122.278022, 47.683612]}",1,web,1,2007.0,0.0,Seattle
 1012,Velocify,-118.3952969,33.9192583,"{'type': 'Point', 'coordinates': [-118.3952969, 33.9192583]}",1,software,125,2004.0,20300000.0,El Segundo
 1013,Phonewire,-90.1978,38.6272,"{'type': 'Point', 'coordinates': [-90.1978, 38.6272]}",1,mobile,100,1998.0,0.0,St. Louis
 1014,FusionOps,-122.0106131,37.3795251,"{'type': 'Point', 'coordinates': [-122.0106131, 37.3795251]}",1,analytics,25,2000.0,6090000.0,Sunnyvale
 1015,Diabetic Days,133.775136,-25.274398,"{'type': 'Point', 'coordinates': [133.775136, -25.274398]}",1,web,1,2007.0,0.0,
-1016,Tablefinder,11.986383,57.696981,"{'type': 'Point', 'coordinates': [11.986383, 57.696981]}",1,search,2,2006.0,448800.00002414547,Gothenburg
+1016,Tablefinder,11.986383,57.696981,"{'type': 'Point', 'coordinates': [11.986383, 57.696981]}",1,search,2,2006.0,451399.99998625484,Gothenburg
 1017,Gimeney,30.23279,60.022133,"{'type': 'Point', 'coordinates': [30.23279, 60.022133]}",1,web,1,2007.0,0.0,Saint-Petersburg
 1018,Rekatu,-110.958319,32.240301,"{'type': 'Point', 'coordinates': [-110.958319, 32.240301]}",1,games_video,5,2008.0,0.0,Tucson
 1019,PatientsLikeMe,-71.0793952,42.3674989,"{'type': 'Point', 'coordinates': [-71.0793952, 42.3674989]}",1,health,200,2004.0,27000000.0,Cambridge
@@ -1048,9 +1048,9 @@
 1046,Cartedge,-111.900917,40.622919,"{'type': 'Point', 'coordinates': [-111.900917, 40.622919]}",1,software,100,2006.0,0.0,Midvale
 1047,imedo,13.403108,52.519212,"{'type': 'Point', 'coordinates': [13.403108, 52.519212]}",1,health,15,2007.0,0.0,Berlin
 1048,IMAGE202 ENTERTAINMENT,-95.488856,29.748316,"{'type': 'Point', 'coordinates': [-95.488856, 29.748316]}",1,public_relations,3,2002.0,0.0,Houston
-1049,zweitgeist,9.926475,53.563564,"{'type': 'Point', 'coordinates': [9.926475, 53.563564]}",1,web,21,2006.0,561000.0000301818,Hamburg
+1049,zweitgeist,9.926475,53.563564,"{'type': 'Point', 'coordinates': [9.926475, 53.563564]}",1,web,21,2006.0,564249.9999828186,Hamburg
 1050,ExpertFlyer,-73.042188,40.773557,"{'type': 'Point', 'coordinates': [-73.042188, 40.773557]}",1,search,3,2004.0,30000.0,Patchogue
-1051,sevenload,6.921546,50.945289,"{'type': 'Point', 'coordinates': [6.921546, 50.945289]}",1,games_video,67,2006.0,28050000.00150909,Cologne
+1051,sevenload,6.921546,50.945289,"{'type': 'Point', 'coordinates': [6.921546, 50.945289]}",1,games_video,67,2006.0,28212499.99914093,Cologne
 1052,DoApp,-93.3439291,44.9091984,"{'type': 'Point', 'coordinates': [-93.3439291, 44.9091984]}",1,mobile,19,2007.0,0.0,Minneapolis
 1053,uLiken,-75.024335,39.928792,"{'type': 'Point', 'coordinates': [-75.024335, 39.928792]}",1,web,2,2008.0,0.0,Cherry Hill
 1054,NewsCred,6.124424,46.223157,"{'type': 'Point', 'coordinates': [6.124424, 46.223157]}",2,advertising,70,2008.0,21800000.0,New York
@@ -1130,7 +1130,7 @@
 1128,Myminutes,7.621495,45.072106,"{'type': 'Point', 'coordinates': [7.621495, 45.072106]}",1,web,5,2007.0,0.0,Turin
 1129,Oriango,-46.638818,-23.548943,"{'type': 'Point', 'coordinates': [-46.638818, -23.548943]}",1,search,10,2008.0,0.0,Oakland
 1130,WrapMail,-80.143394,26.119403,"{'type': 'Point', 'coordinates': [-80.143394, 26.119403]}",1,advertising,10,2005.0,1940000.0,Fort Lauderdale
-1131,Dial2Do,-6.250684,53.34202,"{'type': 'Point', 'coordinates': [-6.250684, 53.34202]}",1,messaging,10,,1122000.0000603637,Dublin
+1131,Dial2Do,-6.250684,53.34202,"{'type': 'Point', 'coordinates': [-6.250684, 53.34202]}",1,messaging,10,,1128499.9999656372,Dublin
 1132,Pixaria,-79.3831843,43.653226,"{'type': 'Point', 'coordinates': [-79.3831843, 43.653226]}",1,software,1,2003.0,0.0,Missisauga
 1133,Yabb,-0.13376,51.514897,"{'type': 'Point', 'coordinates': [-0.13376, 51.514897]}",1,web,80,1997.0,0.0,London
 1134,WujWuj,-122.343281,37.580273,"{'type': 'Point', 'coordinates': [-122.343281, 37.580273]}",1,web,5,2007.0,0.0,Burlingame
@@ -1179,7 +1179,7 @@
 1177,Locify,-2.259258,53.48336,"{'type': 'Point', 'coordinates': [-2.259258, 53.48336]}",1,mobile,5,2007.0,0.0,Manchester
 1178,Skalfa,-86.27604,41.601645,"{'type': 'Point', 'coordinates': [-86.27604, 41.601645]}",1,software,18,2004.0,0.0,South Bend
 1179,wheresbest,-3.435973,55.378051,"{'type': 'Point', 'coordinates': [-3.435973, 55.378051]}",1,search,1,2008.0,0.0,
-1180,ScribbleLive,-79.406775,43.64308,"{'type': 'Point', 'coordinates': [-79.406775, 43.64308]}",1,enterprise,45,2008.0,9151090.871904744,Toronto
+1180,ScribbleLive,-79.406775,43.64308,"{'type': 'Point', 'coordinates': [-79.406775, 43.64308]}",1,enterprise,45,2008.0,9190363.081220422,Toronto
 1181,GigPark,-79.446717,43.666678,"{'type': 'Point', 'coordinates': [-79.446717, 43.666678]}",1,network_hosting,4,2007.0,200000.0,Toronto
 1182,NearU Search,-118.168104,34.144298,"{'type': 'Point', 'coordinates': [-118.168104, 34.144298]}",1,mobile,16,2004.0,0.0,Pasadena
 1183,Infectious,-122.410217,37.771927,"{'type': 'Point', 'coordinates': [-122.410217, 37.771927]}",1,web,4,2007.0,750000.0,San Francisco
@@ -1208,7 +1208,7 @@
 1206,Acquity Group,-87.639713,41.881876,"{'type': 'Point', 'coordinates': [-87.639713, 41.881876]}",1,ecommerce,500,2001.0,0.0,Chicago
 1207,SmokeJumper Strategy,-122.08316,37.388077,"{'type': 'Point', 'coordinates': [-122.08316, 37.388077]}",1,consulting,1,2004.0,0.0,Mountain View
 1208,Savvy Cellar Wines,-122.227319,37.486589,"{'type': 'Point', 'coordinates': [-122.227319, 37.486589]}",1,other,7,2005.0,300000.0,Redwood City
-1209,Socruise,0.257568,51.125693,"{'type': 'Point', 'coordinates': [0.257568, 51.125693]}",1,web,5,2008.0,280500.0000150909,Kent
+1209,Socruise,0.257568,51.125693,"{'type': 'Point', 'coordinates': [0.257568, 51.125693]}",1,web,5,2008.0,282124.9999914093,Kent
 1210,urlBorg,23.803793,38.07555,"{'type': 'Point', 'coordinates': [23.803793, 38.07555]}",1,web,1,2007.0,0.0,Athens
 1211,Pangaeaa Enterprises,-84.720134,33.553846,"{'type': 'Point', 'coordinates': [-84.720134, 33.553846]}",1,games_video,3,2006.0,0.0,Palmetto
 1212,wagehub,-83.14483,42.51214,"{'type': 'Point', 'coordinates': [-83.14483, 42.51214]}",1,web,1,2008.0,0.0,Madison Heights
@@ -1220,7 +1220,7 @@
 1218,Monkey in your Soul,-79.386755,43.670233,"{'type': 'Point', 'coordinates': [-79.386755, 43.670233]}",1,software,1,2007.0,0.0,Toronto
 1219,Mekanism,-122.391515,37.781264,"{'type': 'Point', 'coordinates': [-122.391515, 37.781264]}",2,advertising,35,,0.0,San Francisco
 1220,Scoofers,5.291266,52.132633,"{'type': 'Point', 'coordinates': [5.291266, 52.132633]}",1,search,10,2006.0,0.0,
-1221,Oxynade,3.71105,51.050314,"{'type': 'Point', 'coordinates': [3.71105, 51.050314]}",1,search,10,2007.0,1234200.0000664,Ghent
+1221,Oxynade,3.71105,51.050314,"{'type': 'Point', 'coordinates': [3.71105, 51.050314]}",1,search,10,2007.0,1241349.9999622009,Ghent
 1222,SFentrepreneur,-122.437262,37.78597,"{'type': 'Point', 'coordinates': [-122.437262, 37.78597]}",1,web,2,2008.0,0.0,San Francisco
 1223,BipBip,103.845909,1.319458,"{'type': 'Point', 'coordinates': [103.845909, 1.319458]}",1,mobile,10,2007.0,0.0,
 1224,Cloudmark,-122.39071,37.779507,"{'type': 'Point', 'coordinates': [-122.39071, 37.779507]}",1,security,100,2001.0,38500000.0,San Francisco
@@ -1234,7 +1234,7 @@
 1232,Fabric Interactive,-118.288536,34.0748,"{'type': 'Point', 'coordinates': [-118.288536, 34.0748]}",1,consulting,10,2001.0,0.0,Los Angeles
 1233,The Television Writers Vault,-116.995957,33.228284,"{'type': 'Point', 'coordinates': [-116.995957, 33.228284]}",1,games_video,3,2005.0,0.0,San Diego
 1234,RMW Web Publishing,149.574258,-33.41978,"{'type': 'Point', 'coordinates': [149.574258, -33.41978]}",1,web,2,2000.0,0.0,Bathurst
-1235,gate5,13.411494,52.52348,"{'type': 'Point', 'coordinates': [13.411494, 52.52348]}",1,mobile,40,1999.0,12903000.000694182,Berlin
+1235,gate5,13.411494,52.52348,"{'type': 'Point', 'coordinates': [13.411494, 52.52348]}",1,mobile,40,1999.0,12977749.999604827,Berlin
 1236,Blogpire Productions,-71.182488,42.417283,"{'type': 'Point', 'coordinates': [-71.182488, 42.417283]}",1,other,25,2004.0,0.0,Arlington
 1237,FliteHaus Creative Agency,-81.366414,28.544123,"{'type': 'Point', 'coordinates': [-81.366414, 28.544123]}",1,advertising,4,1994.0,0.0,Oviedo
 1238,eduFire,-122.3957917,37.7764671,"{'type': 'Point', 'coordinates': [-122.3957917, 37.7764671]}",1,education,5,,1700000.0,Chandler
@@ -1272,9 +1272,9 @@
 1270,Wazzala,-95.712891,37.09024,"{'type': 'Point', 'coordinates': [-95.712891, 37.09024]}",1,web,1,2008.0,0.0,
 1271,earth album,-71.239247,42.389781,"{'type': 'Point', 'coordinates': [-71.239247, 42.389781]}",1,web,1,2006.0,0.0,Waltham
 1272,Realore Studios,23.881275,55.169438,"{'type': 'Point', 'coordinates': [23.881275, 55.169438]}",1,software,30,,0.0,
-1273,Orbster,8.4102781,49.0092558,"{'type': 'Point', 'coordinates': [8.4102781, 49.0092558]}",1,mobile,8,2008.0,561000.0000301818,Bangalore
+1273,Orbster,8.4102781,49.0092558,"{'type': 'Point', 'coordinates': [8.4102781, 49.0092558]}",1,mobile,8,2008.0,564249.9999828186,Bangalore
 1274,Medallia,-122.1797053,37.4520239,"{'type': 'Point', 'coordinates': [-122.1797053, 37.4520239]}",1,software,140,2002.0,55000000.0,Palo Alto
-1275,ShopIt,-118.46643,34.05304,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1,ecommerce,18,,28050.00000150909,Los Angeles
+1275,ShopIt,-118.46643,34.05304,"{'type': 'Point', 'coordinates': [-118.46643, 34.05304]}",1,ecommerce,18,,28212.499999140928,Los Angeles
 1276,NitroDesk,-122.132013,47.584975,"{'type': 'Point', 'coordinates': [-122.132013, 47.584975]}",1,software,8,2008.0,0.0,Bellevue
 1277,Avaya,-121.977333,37.398076,"{'type': 'Point', 'coordinates': [-121.977333, 37.398076]}",2,software,18000,2000.0,0.0,Santa Clara
 1278,Monkiri,73.83237,18.569305,"{'type': 'Point', 'coordinates': [73.83237, 18.569305]}",1,public_relations,6,2008.0,0.0,Pune
@@ -1333,7 +1333,7 @@
 1331,Brainware,-77.464018,39.0601,"{'type': 'Point', 'coordinates': [-77.464018, 39.0601]}",1,software,65,2006.0,0.0,Ashburn
 1332,Wilogo,4.580496,45.509034,"{'type': 'Point', 'coordinates': [4.580496, 45.509034]}",1,web,0,2006.0,0.0,Saint Chamond
 1333,BikerOrNot,-82.639902,27.771455,"{'type': 'Point', 'coordinates': [-82.639902, 27.771455]}",1,network_hosting,8,2007.0,0.0,Saint Petersburg
-1334,hiogi,13.397398,52.529762,"{'type': 'Point', 'coordinates': [13.397398, 52.529762]}",1,mobile,5,2007.0,112200.00000603637,Berlin
+1334,hiogi,13.397398,52.529762,"{'type': 'Point', 'coordinates': [13.397398, 52.529762]}",1,mobile,5,2007.0,112849.99999656371,Berlin
 1335,Jalbum,18.08897,59.335897,"{'type': 'Point', 'coordinates': [18.08897, 59.335897]}",1,software,9,2006.0,0.0,Stockholm
 1336,Cyber Technology,-82.995226,39.956101,"{'type': 'Point', 'coordinates': [-82.995226, 39.956101]}",1,advertising,25,2004.0,0.0,Columbus
 1337,K9Poker,-97.7428,30.2669,"{'type': 'Point', 'coordinates': [-97.7428, 30.2669]}",1,other,2,2004.0,0.0,Austin
@@ -1342,7 +1342,7 @@
 1340,Infusionsoft,-111.8871813,33.2871748,"{'type': 'Point', 'coordinates': [-111.8871813, 33.2871748]}",1,software,350,2001.0,72900000.0,Chandler
 1341,Tapulous,-122.161018,37.444332,"{'type': 'Point', 'coordinates': [-122.161018, 37.444332]}",1,mobile,15,2008.0,2800000.0,Palo Alto
 1342,Oronjo,4.917203,52.370331,"{'type': 'Point', 'coordinates': [4.917203, 52.370331]}",1,web,4,2007.0,0.0,Amsterdam
-1343,be2,8.093765,51.578714,"{'type': 'Point', 'coordinates': [8.093765, 51.578714]}",1,web,2,2004.0,25469400.001370255,Munich
+1343,be2,8.093765,51.578714,"{'type': 'Point', 'coordinates': [8.093765, 51.578714]}",1,web,2,2004.0,25616949.99921996,Munich
 1344,Bertelsmann,8.4200321,51.9098205,"{'type': 'Point', 'coordinates': [8.4200321, 51.9098205]}",1,other,100000,1835.0,0.0,Gütersloh
 1345,zanox,13.446834,52.502642,"{'type': 'Point', 'coordinates': [13.446834, 52.502642]}",1,web,600,2000.0,0.0,Berlin
 1346,Ziki,-73.9932793,40.733276,"{'type': 'Point', 'coordinates': [-73.9932793, 40.733276]}",1,web,8,2006.0,0.0,New York
@@ -1406,7 +1406,7 @@
 1404,SRA International,-77.379474,38.863995,"{'type': 'Point', 'coordinates': [-77.379474, 38.863995]}",1,consulting,6400,1978.0,0.0,Fairfax
 1405,Bankaholic,-118.10529,34.122322,"{'type': 'Point', 'coordinates': [-118.10529, 34.122322]}",1,web,3,2006.0,0.0,San Marino
 1406,EMAS Pro,-117.271461,32.842958,"{'type': 'Point', 'coordinates': [-117.271461, 32.842958]}",2,software,45,1997.0,0.0,La Jolla
-1407,GeoMe,2.168518,41.387411,"{'type': 'Point', 'coordinates': [2.168518, 41.387411]}",1,mobile,6,2007.0,336600.0000181091,Barcelona
+1407,GeoMe,2.168518,41.387411,"{'type': 'Point', 'coordinates': [2.168518, 41.387411]}",1,mobile,6,2007.0,338549.99998969113,Barcelona
 1408,Frequent Flyer Network,-104.722932,38.861035,"{'type': 'Point', 'coordinates': [-104.722932, 38.861035]}",1,web,25,1995.0,0.0,Colorado Springs
 1409,Louis Vuitton,2.30069,48.871976,"{'type': 'Point', 'coordinates': [2.30069, 48.871976]}",1,other,9671,1854.0,0.0,Paris
 1410,Aspect Software,-71.3277854,42.6005604,"{'type': 'Point', 'coordinates': [-71.3277854, 42.6005604]}",1,software,2000,1973.0,0.0,Chelmsford
@@ -1449,7 +1449,7 @@
 1447,Oliomap,6.124429,46.236895,"{'type': 'Point', 'coordinates': [6.124429, 46.236895]}",1,web,1,2007.0,0.0,Grand-Saconnex
 1448,FunMobility,-121.8958879,37.6871001,"{'type': 'Point', 'coordinates': [-121.8958879, 37.6871001]}",1,mobile,51,1999.0,0.0,Pleasanton
 1449,MyMart,-0.157333,51.541937,"{'type': 'Point', 'coordinates': [-0.157333, 51.541937]}",1,mobile,4,2006.0,0.0,London
-1450,Pixy Ltd,-0.742987,51.508466,"{'type': 'Point', 'coordinates': [-0.742987, 51.508466]}",1,web,3,2006.0,62383.23992552328,Maidenhead
+1450,Pixy Ltd,-0.742987,51.508466,"{'type': 'Point', 'coordinates': [-0.742987, 51.508466]}",1,web,3,2006.0,62841.07361898009,Maidenhead
 1451,Hoteliers,4.920582,52.376792,"{'type': 'Point', 'coordinates': [4.920582, 52.376792]}",1,web,10,2005.0,0.0,Amsterdam
 1452,CheckinSooner,-97.501211,35.232099,"{'type': 'Point', 'coordinates': [-97.501211, 35.232099]}",1,web,1,2006.0,0.0,Norman
 1453,NameMedia,-71.260509,42.389557,"{'type': 'Point', 'coordinates': [-71.260509, 42.389557]}",1,advertising,150,2005.0,0.0,Waltham
@@ -1549,7 +1549,7 @@
 1547,Arsenal Interactive,-122.100333,37.429674,"{'type': 'Point', 'coordinates': [-122.100333, 37.429674]}",1,mobile,11,2007.0,0.0,Mountain VIew
 1548,CleVR,-2.8457173,51.4478258,"{'type': 'Point', 'coordinates': [-2.8457173, 51.4478258]}",1,web,2,,0.0,Clevedon
 1549,CareerTours,-111.926112,33.465063,"{'type': 'Point', 'coordinates': [-111.926112, 33.465063]}",1,games_video,17,2006.0,0.0,Scottsdale
-1550,Solaiemes,-3.773844,40.382338,"{'type': 'Point', 'coordinates': [-3.773844, 40.382338]}",1,public_relations,12,2006.0,768570.0000413491,Madrid
+1550,Solaiemes,-3.773844,40.382338,"{'type': 'Point', 'coordinates': [-3.773844, 40.382338]}",1,public_relations,12,2006.0,773022.4999764614,Madrid
 1551,Swish News,-82.451142,27.98146,"{'type': 'Point', 'coordinates': [-82.451142, 27.98146]}",2,other,3,2008.0,0.0,Tampa
 1552,SightSpeed,-122.292555,37.858628,"{'type': 'Point', 'coordinates': [-122.292555, 37.858628]}",1,software,25,2001.0,0.0,Berkeley
 1553,Easypano,114.169241,22.313675,"{'type': 'Point', 'coordinates': [114.169241, 22.313675]}",1,software,100,2001.0,0.0,Shanghai
@@ -1583,7 +1583,7 @@
 1581,Ninth Yard,-97.745209,30.268735,"{'type': 'Point', 'coordinates': [-97.745209, 30.268735]}",1,software,1,2008.0,0.0,Omaha
 1582,Base 10 Web Solutions,-75.752398,45.392766,"{'type': 'Point', 'coordinates': [-75.752398, 45.392766]}",1,public_relations,3,2007.0,0.0,Ottawa
 1583,Travellerspoint,10.763774,59.92085,"{'type': 'Point', 'coordinates': [10.763774, 59.92085]}",2,web,5,2002.0,0.0,Oslo
-1584,Transinsight,13.776354,51.055992,"{'type': 'Point', 'coordinates': [13.776354, 51.055992]}",1,software,15,2005.0,561000.0000301818,Dresden
+1584,Transinsight,13.776354,51.055992,"{'type': 'Point', 'coordinates': [13.776354, 51.055992]}",1,software,15,2005.0,564249.9999828186,Dresden
 1585,Regator,-84.389663,33.754487,"{'type': 'Point', 'coordinates': [-84.389663, 33.754487]}",1,web,4,2008.0,0.0,Atlanta
 1586,GoGrid,-122.3886569,37.7895248,"{'type': 'Point', 'coordinates': [-122.3886569, 37.7895248]}",2,network_hosting,102,2001.0,0.0,San Francisco
 1587,Flexbit,8.51229,47.155136,"{'type': 'Point', 'coordinates': [8.51229, 47.155136]}",1,consulting,2,2006.0,0.0,Zug
@@ -1624,8 +1624,8 @@
 1622,Bizcard,-111.8985,33.5093,"{'type': 'Point', 'coordinates': [-111.8985, 33.5093]}",1,other,24,2007.0,0.0,Scottsdale
 1623,Spire,-71.049225,42.350027,"{'type': 'Point', 'coordinates': [-71.049225, 42.350027]}",1,network_hosting,10,,9000000.0,Boston
 1624,AdScale,11.5893956,48.1654212,"{'type': 'Point', 'coordinates': [11.5893956, 48.1654212]}",1,advertising,40,2007.0,6150000.0,Munich
-1625,Videoplaza,-0.1020894,51.5212481,"{'type': 'Point', 'coordinates': [-0.1020894, 51.5212481]}",5,advertising,70,2007.0,17839800.00095978,London
-1626,Snagsta,-0.1400366,51.4761694,"{'type': 'Point', 'coordinates': [-0.1400366, 51.4761694]}",1,search,4,2007.0,129757.13904508844,London
+1625,Videoplaza,-0.1020894,51.5212481,"{'type': 'Point', 'coordinates': [-0.1020894, 51.5212481]}",5,advertising,70,2007.0,17943149.99945363,London
+1626,Snagsta,-0.1400366,51.4761694,"{'type': 'Point', 'coordinates': [-0.1400366, 51.4761694]}",1,search,4,2007.0,130709.4331274786,London
 1627,XY InterAct,151.13278,-33.830606,"{'type': 'Point', 'coordinates': [151.13278, -33.830606]}",1,mobile,15,2006.0,0.0,Sydney
 1628,EcoFlip,-122.420903,37.796164,"{'type': 'Point', 'coordinates': [-122.420903, 37.796164]}",1,web,5,2008.0,0.0,San Francisco
 1629,Kapish,144.943656,-37.812649,"{'type': 'Point', 'coordinates': [144.943656, -37.812649]}",1,software,4,2007.0,0.0,Docklands
@@ -1658,7 +1658,7 @@
 1656,MedicareSaver,-97.069403,33.020039,"{'type': 'Point', 'coordinates': [-97.069403, 33.020039]}",1,web,6,2008.0,0.0,Flower Mound
 1657,Comindwork,30.680651,50.474832,"{'type': 'Point', 'coordinates': [30.680651, 50.474832]}",1,software,15,2007.0,0.0,Kiev
 1658,Blinkweb,-86.198436,39.973067,"{'type': 'Point', 'coordinates': [-86.198436, 39.973067]}",1,web,3,2008.0,0.0,Carmel
-1659,Nuroa,2.1775706,41.3916792,"{'type': 'Point', 'coordinates': [2.1775706, 41.3916792]}",1,search,16,2006.0,3366000.000181091,Barcelona
+1659,Nuroa,2.1775706,41.3916792,"{'type': 'Point', 'coordinates': [2.1775706, 41.3916792]}",1,search,16,2006.0,3385499.9998969114,Barcelona
 1660,Festuc,2.169919,41.387917,"{'type': 'Point', 'coordinates': [2.169919, 41.387917]}",1,mobile,6,,0.0,Barcelona
 1661,Infoglide Software Corporation,-97.848345,30.392018,"{'type': 'Point', 'coordinates': [-97.848345, 30.392018]}",1,software,31,1996.0,0.0,Austin
 1662,Imaginuity New Media,-96.797111,32.781078,"{'type': 'Point', 'coordinates': [-96.797111, 32.781078]}",1,other,40,2007.0,0.0,Dallas
@@ -1748,7 +1748,7 @@
 1746,Mightybytes,-87.668365,41.977257,"{'type': 'Point', 'coordinates': [-87.668365, 41.977257]}",1,games_video,8,1998.0,0.0,Chicago
 1747,Black Duck Software,-71.253998,42.398916,"{'type': 'Point', 'coordinates': [-71.253998, 42.398916]}",4,software,100,2002.0,50500000.0,Waltham
 1748,Nearsoft,-121.782424,37.235298,"{'type': 'Point', 'coordinates': [-121.782424, 37.235298]}",1,software,45,,0.0,San Jose
-1749,Allvoices,-122.401942,37.791068,"{'type': 'Point', 'coordinates': [-122.401942, 37.791068]}",1,news,10,2008.0,3410880.0001835055,San Francisco
+1749,Allvoices,-122.401942,37.791068,"{'type': 'Point', 'coordinates': [-122.401942, 37.791068]}",1,news,10,2008.0,3430639.999895537,San Francisco
 1750,Tweenky,-94.594928,39.104837,"{'type': 'Point', 'coordinates': [-94.594928, 39.104837]}",1,web,1,2008.0,0.0,Kansas City
 1751,eVectis Technologies,-76.768651,39.962886,"{'type': 'Point', 'coordinates': [-76.768651, 39.962886]}",1,consulting,2,2002.0,0.0,York
 1752,EffectiveUI,-104.990968,39.755152,"{'type': 'Point', 'coordinates': [-104.990968, 39.755152]}",2,software,97,2005.0,0.0,Denver
@@ -1794,7 +1794,7 @@
 1792,Nozbe,18.4646822,54.5397835,"{'type': 'Point', 'coordinates': [18.4646822, 54.5397835]}",1,web,2,2007.0,0.0,
 1793,Telnic,-0.134078,51.518107,"{'type': 'Point', 'coordinates': [-0.134078, 51.518107]}",1,search,12,2000.0,35000000.0,London
 1794,The Tin,-0.10978,51.52129,"{'type': 'Point', 'coordinates': [-0.10978, 51.52129]}",1,web,10,2001.0,0.0,London
-1795,NEXTA Media,12.496985,41.907696,"{'type': 'Point', 'coordinates': [12.496985, 41.907696]}",2,other,20,2000.0,1514700.000081491,Roma
+1795,NEXTA Media,12.496985,41.907696,"{'type': 'Point', 'coordinates': [12.496985, 41.907696]}",2,other,20,2000.0,1523474.9999536101,Roma
 1796,QuesGen Systems,-122.349698,37.591129,"{'type': 'Point', 'coordinates': [-122.349698, 37.591129]}",1,search,10,2004.0,0.0,Burlingame
 1797,DatStat,-122.3466877,47.6490908,"{'type': 'Point', 'coordinates': [-122.3466877, 47.6490908]}",1,software,25,1997.0,0.0,Seattle
 1798,Click2Map,6.182658,49.1004,"{'type': 'Point', 'coordinates': [6.182658, 49.1004]}",1,web,4,2008.0,0.0,Metz
@@ -1811,7 +1811,7 @@
 1809,CODA,-1.567982,53.976358,"{'type': 'Point', 'coordinates': [-1.567982, 53.976358]}",1,software,3500,,0.0,North Yorkshire
 1810,RankBoom,-122.1490582,37.4459832,"{'type': 'Point', 'coordinates': [-122.1490582, 37.4459832]}",1,web,2,2008.0,0.0,Palo Alto
 1811,Illumina Digital,-0.25628,51.503612,"{'type': 'Point', 'coordinates': [-0.25628, 51.503612]}",1,games_video,55,1998.0,0.0,London
-1812,CompareAway,-1.574948,54.703145,"{'type': 'Point', 'coordinates': [-1.574948, 54.703145]}",1,web,5,2009.0,623832.3992552329,Durham
+1812,CompareAway,-1.574948,54.703145,"{'type': 'Point', 'coordinates': [-1.574948, 54.703145]}",1,web,5,2009.0,628410.7361898009,Durham
 1813,want2do,13.465981,52.510284,"{'type': 'Point', 'coordinates': [13.465981, 52.510284]}",1,web,4,2008.0,0.0,Berlin
 1814,SimpleSignal,-117.693478,33.466831,"{'type': 'Point', 'coordinates': [-117.693478, 33.466831]}",2,mobile,25,2004.0,0.0,Dana Point
 1815,Suite101,-123.120893,49.275332,"{'type': 'Point', 'coordinates': [-123.120893, 49.275332]}",1,web,10,1996.0,0.0,Vancouver
@@ -1833,7 +1833,7 @@
 1831,Vantage Media,-118.387511,33.902696,"{'type': 'Point', 'coordinates': [-118.387511, 33.902696]}",1,advertising,150,2002.0,70000000.0,El Segundo
 1832,OZ Communications,-73.5687974,45.4965703,"{'type': 'Point', 'coordinates': [-73.5687974, 45.4965703]}",1,software,220,1991.0,34000000.0,"Montreal, Quebec"
 1833,Videonewmedia,101.707703,3.15021,"{'type': 'Point', 'coordinates': [101.707703, 3.15021]}",1,public_relations,3,2008.0,0.0,Kuala Lumpur
-1834,Terapeak,-123.407654,48.494688,"{'type': 'Point', 'coordinates': [-123.407654, 48.494688]}",1,ecommerce,44,2002.0,3812954.52996031,Victoria
+1834,Terapeak,-123.407654,48.494688,"{'type': 'Point', 'coordinates': [-123.407654, 48.494688]}",1,ecommerce,44,2002.0,3829317.9505085093,Victoria
 1835,Omega Legal Systems,-111.98694,33.492714,"{'type': 'Point', 'coordinates': [-111.98694, 33.492714]}",1,software,42,1975.0,0.0,Phoenix
 1836,SchoolPulse,-71.356845,42.45494,"{'type': 'Point', 'coordinates': [-71.356845, 42.45494]}",1,web,6,2008.0,0.0,Concord
 1837,Digital Assets Deployment,-3.678121,40.42046,"{'type': 'Point', 'coordinates': [-3.678121, 40.42046]}",1,ecommerce,10,2006.0,0.0,Madrid
@@ -1963,7 +1963,7 @@
 1961,Demandbase,-122.400346,37.796843,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",1,analytics,80,2006.0,33000000.0,San Francisco
 1962,Diditz,77.210726,28.554777,"{'type': 'Point', 'coordinates': [77.210726, 28.554777]}",1,network_hosting,2,2008.0,0.0,New Delhi
 1963,NationWide Auto Lending,-80.852317,35.01647,"{'type': 'Point', 'coordinates': [-80.852317, 35.01647]}",1,web,23,2006.0,0.0,Charlotte
-1964,Wevod,2.321213,48.846726,"{'type': 'Point', 'coordinates': [2.321213, 48.846726]}",1,games_video,8,2006.0,336600.0000181091,Paris
+1964,Wevod,2.321213,48.846726,"{'type': 'Point', 'coordinates': [2.321213, 48.846726]}",1,games_video,8,2006.0,338549.99998969113,Paris
 1965,NewMarCom,4.890314,52.352201,"{'type': 'Point', 'coordinates': [4.890314, 52.352201]}",1,consulting,1,2008.0,0.0,Amsterdam
 1966,LeapRE,-87.65318,41.94038,"{'type': 'Point', 'coordinates': [-87.65318, 41.94038]}",1,advertising,11,2005.0,0.0,Chicago
 1967,ShopCastTV,-122.3943387,37.7881481,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",1,mobile,5,2007.0,0.0,San Francisco
@@ -2042,7 +2042,7 @@
 2040,TownConnect,-71.255848,42.396986,"{'type': 'Point', 'coordinates': [-71.255848, 42.396986]}",1,other,4,2006.0,0.0,Waltham
 2041,Aventure Media,-5.919693,54.649575,"{'type': 'Point', 'coordinates': [-5.919693, 54.649575]}",1,web,10,2003.0,0.0,Belfast
 2042,Intela,-105.278785,40.058448,"{'type': 'Point', 'coordinates': [-105.278785, 40.058448]}",2,advertising,70,2006.0,13300000.0,Boulder
-2043,Spare Change Payments,-122.055177,37.323234,"{'type': 'Point', 'coordinates': [-122.055177, 37.323234]}",1,web,8,2008.0,381295.45299603103,Cupertino
+2043,Spare Change Payments,-122.055177,37.323234,"{'type': 'Point', 'coordinates': [-122.055177, 37.323234]}",1,web,8,2008.0,382931.79505085095,Cupertino
 2044,GreenLogic India Tecnologies,77.5833979,12.9093426,"{'type': 'Point', 'coordinates': [77.5833979, 12.9093426]}",1,advertising,10,,0.0,Bangalore
 2045,Mexuar Communications,-2.335605,53.465082,"{'type': 'Point', 'coordinates': [-2.335605, 53.465082]}",1,software,12,2005.0,0.0,Manchester
 2046,Carribean International trading,-80.3728937,26.120726,"{'type': 'Point', 'coordinates': [-80.3728937, 26.120726]}",1,public_relations,25,2001.0,0.0,Weston
@@ -2229,7 +2229,7 @@
 2227,LeapRE,-87.65318,41.94038,"{'type': 'Point', 'coordinates': [-87.65318, 41.94038]}",1,advertising,11,2005.0,0.0,Chicago
 2228,Demandbase,-122.400346,37.796843,"{'type': 'Point', 'coordinates': [-122.400346, 37.796843]}",1,analytics,80,2006.0,33000000.0,San Francisco
 2229,NationWide Auto Lending,-80.852317,35.01647,"{'type': 'Point', 'coordinates': [-80.852317, 35.01647]}",1,web,23,2006.0,0.0,Charlotte
-2230,Wevod,2.321213,48.846726,"{'type': 'Point', 'coordinates': [2.321213, 48.846726]}",1,games_video,8,2006.0,336600.0000181091,Paris
+2230,Wevod,2.321213,48.846726,"{'type': 'Point', 'coordinates': [2.321213, 48.846726]}",1,games_video,8,2006.0,338549.99998969113,Paris
 2231,ShopCastTV,-122.3943387,37.7881481,"{'type': 'Point', 'coordinates': [-122.3943387, 37.7881481]}",1,mobile,5,2007.0,0.0,San Francisco
 2232,Me-trics,-83.128937,42.484985,"{'type': 'Point', 'coordinates': [-83.128937, 42.484985]}",1,public_relations,3,2007.0,0.0,Royal Oak
 2233,OMS SafeHarbor,-71.305778,42.64245,"{'type': 'Point', 'coordinates': [-71.305778, 42.64245]}",1,software,35,2001.0,0.0,Lowell
@@ -2306,7 +2306,7 @@
 2304,Libertas Academica,174.729567,-36.74277,"{'type': 'Point', 'coordinates': [174.729567, -36.74277]}",1,web,6,2004.0,0.0,Auckland
 2305,HILTI,9.5236102,47.1806631,"{'type': 'Point', 'coordinates': [9.5236102, 47.1806631]}",1,other,19000,,0.0,Schaan
 2306,TownConnect,-71.255848,42.396986,"{'type': 'Point', 'coordinates': [-71.255848, 42.396986]}",1,other,4,2006.0,0.0,Waltham
-2307,Spare Change Payments,-122.055177,37.323234,"{'type': 'Point', 'coordinates': [-122.055177, 37.323234]}",1,web,8,2008.0,381295.45299603103,Cupertino
+2307,Spare Change Payments,-122.055177,37.323234,"{'type': 'Point', 'coordinates': [-122.055177, 37.323234]}",1,web,8,2008.0,382931.79505085095,Cupertino
 2308,Intela,-105.278785,40.058448,"{'type': 'Point', 'coordinates': [-105.278785, 40.058448]}",2,advertising,70,2006.0,13300000.0,Boulder
 2309,GreenLogic India Tecnologies,77.5833979,12.9093426,"{'type': 'Point', 'coordinates': [77.5833979, 12.9093426]}",1,advertising,10,,0.0,Bangalore
 2310,Mexuar Communications,-2.335605,53.465082,"{'type': 'Point', 'coordinates': [-2.335605, 53.465082]}",1,software,12,2005.0,0.0,Manchester
@@ -2556,7 +2556,7 @@
 2554,Mindjet,9.049981,50.095312,"{'type': 'Point', 'coordinates': [9.049981, 50.095312]}",1,software,200,1995.0,15000000.0,San Francisco
 2555,Acknowledgement,-0.0740678,51.5183725,"{'type': 'Point', 'coordinates': [-0.0740678, 51.5183725]}",1,,16,2003.0,0.0,London
 2556,Precise,-79.998427,40.438443,"{'type': 'Point', 'coordinates': [-79.998427, 40.438443]}",2,other,40,2000.0,0.0,Pittsburgh
-2557,iKlax Media,-1.5555799,43.4477272,"{'type': 'Point', 'coordinates': [-1.5555799, 43.4477272]}",1,software,7,2008.0,561000.0000301818,BIDART
+2557,iKlax Media,-1.5555799,43.4477272,"{'type': 'Point', 'coordinates': [-1.5555799, 43.4477272]}",1,software,7,2008.0,564249.9999828186,BIDART
 2558,PayLease,-117.1851,32.877483,"{'type': 'Point', 'coordinates': [-117.1851, 32.877483]}",1,ecommerce,45,2003.0,0.0,San Diego
 2559,Global Relay,-73.982629,40.662332,"{'type': 'Point', 'coordinates': [-73.982629, 40.662332]}",1,enterprise,210,1999.0,0.0,New York
 2560,CREOpoint,-73.956458,40.768618,"{'type': 'Point', 'coordinates': [-73.956458, 40.768618]}",1,real_estate,10,2008.0,0.0,New York
@@ -2580,7 +2580,7 @@
 2578,Meteor Games,-118.378335,34.09316,"{'type': 'Point', 'coordinates': [-118.378335, 34.09316]}",1,games_video,70,2007.0,0.0,Beverly Hills
 2579,Naughty America,-117.158798,32.715414,"{'type': 'Point', 'coordinates': [-117.158798, 32.715414]}",1,other,90,2001.0,0.0,San Diego
 2580,Palidia,-75.697933,45.423494,"{'type': 'Point', 'coordinates': [-75.697933, 45.423494]}",1,public_relations,2,2006.0,0.0,Ottawa
-2581,Apaja,24.945167,60.171821,"{'type': 'Point', 'coordinates': [24.945167, 60.171821]}",1,games_video,44,2001.0,1963500.0001056364,Helsinki
+2581,Apaja,24.945167,60.171821,"{'type': 'Point', 'coordinates': [24.945167, 60.171821]}",1,games_video,44,2001.0,1974874.999939865,Helsinki
 2582,kooaba,8.516049,47.389909,"{'type': 'Point', 'coordinates': [8.516049, 47.389909]}",1,mobile,20,2006.0,2920000.0,Z&#252;rich
 2583,Nexenta Systems,-122.161287,37.444098,"{'type': 'Point', 'coordinates': [-122.161287, 37.444098]}",1,software,200,2005.0,49900000.0,Santa Clara
 2584,InfoAppenders,-118.254578,34.152449,"{'type': 'Point', 'coordinates': [-118.254578, 34.152449]}",1,other,280,1999.0,0.0,Glendale
@@ -2660,7 +2660,7 @@
 2658,TARGUSinfo,-77.2252393,38.9156214,"{'type': 'Point', 'coordinates': [-77.2252393, 38.9156214]}",1,consulting,225,1993.0,0.0,McLean
 2659,Solutia,-90.1978,38.6272,"{'type': 'Point', 'coordinates': [-90.1978, 38.6272]}",1,other,10000,1901.0,0.0,St. Louis
 2660,Magellan Development,-87.620229,41.887033,"{'type': 'Point', 'coordinates': [-87.620229, 41.887033]}",1,other,1000,,0.0,Chicago
-2661,C4M,5.387345,43.30758,"{'type': 'Point', 'coordinates': [5.387345, 43.30758]}",1,mobile,15,2004.0,2805000.000150909,Marseille
+2661,C4M,5.387345,43.30758,"{'type': 'Point', 'coordinates': [5.387345, 43.30758]}",1,mobile,15,2004.0,2821249.999914093,Marseille
 2662,American Safety Associates,-80.23492,25.768671,"{'type': 'Point', 'coordinates': [-80.23492, 25.768671]}",1,other,5,2003.0,0.0,Miami
 2663,Dilogs,1.8619165,41.4424496,"{'type': 'Point', 'coordinates': [1.8619165, 41.4424496]}",1,web,1,2002.0,0.0,Gelida
 2664,Movidius,-6.2567125,53.3574412,"{'type': 'Point', 'coordinates': [-6.2567125, 53.3574412]}",1,semiconductor,50,2005.0,46500000.0,Dublin
@@ -2674,7 +2674,7 @@
 2672,Scate Technologies,-83.243224,42.717428,"{'type': 'Point', 'coordinates': [-83.243224, 42.717428]}",1,software,25,2001.0,0.0,Orion
 2673,Octopus IP Communications,-75.696716,45.4231289,"{'type': 'Point', 'coordinates': [-75.696716, 45.4231289]}",1,web,20,2007.0,0.0,Ottawa
 2674,RDIconnect,-95.444011,29.70626,"{'type': 'Point', 'coordinates': [-95.444011, 29.70626]}",1,other,20,1996.0,0.0,Houston
-2675,semanticlabs,16.354637,48.202758,"{'type': 'Point', 'coordinates': [16.354637, 48.202758]}",1,software,23,2005.0,1795200.0000965819,Vienna
+2675,semanticlabs,16.354637,48.202758,"{'type': 'Point', 'coordinates': [16.354637, 48.202758]}",1,software,23,2005.0,1805599.9999450194,Vienna
 2676,MyNetResearch,-75.163808,39.951639,"{'type': 'Point', 'coordinates': [-75.163808, 39.951639]}",1,search,5,2008.0,0.0,Philadelphia
 2677,Dukky,-90.082202,29.973994,"{'type': 'Point', 'coordinates': [-90.082202, 29.973994]}",1,analytics,15,2008.0,1000000.0,Mandeville
 2678,BAM Studios,-87.627423,41.893622,"{'type': 'Point', 'coordinates': [-87.627423, 41.893622]}",1,games_video,6,1999.0,0.0,Chicago
@@ -2710,7 +2710,7 @@
 2708,Asyncast Corporation,-121.933651,37.291228,"{'type': 'Point', 'coordinates': [-121.933651, 37.291228]}",1,mobile,20,2007.0,0.0,Campbell
 2709,CityPorters,-121.880958,37.320006,"{'type': 'Point', 'coordinates': [-121.880958, 37.320006]}",1,web,2,2008.0,0.0,San Jose
 2710,Maven Lab,103.847644,1.279696,"{'type': 'Point', 'coordinates': [103.847644, 1.279696]}",1,mobile,8,2006.0,0.0,
-2711,Yoolink,2.350548,48.875367,"{'type': 'Point', 'coordinates': [2.350548, 48.875367]}",1,enterprise,6,,561000.0000301818,Paris
+2711,Yoolink,2.350548,48.875367,"{'type': 'Point', 'coordinates': [2.350548, 48.875367]}",1,enterprise,6,,564249.9999828186,Paris
 2712,GC Marshall,-87.6385324,41.8790291,"{'type': 'Point', 'coordinates': [-87.6385324, 41.8790291]}",1,consulting,1,2008.0,0.0,Chicago
 2713,NuWire,-122.171758,47.615044,"{'type': 'Point', 'coordinates': [-122.171758, 47.615044]}",1,other,10,2007.0,0.0,Bellevue
 2714,Rafinko,-121.902157,37.349484,"{'type': 'Point', 'coordinates': [-121.902157, 37.349484]}",1,search,5,2008.0,0.0,San Jose
@@ -2764,7 +2764,7 @@
 2762,Mediaguide,-75.411743,40.093245,"{'type': 'Point', 'coordinates': [-75.411743, 40.093245]}",1,software,35,,0.0,King Of Prussia
 2763,FANUC Robotics America,-83.206029,42.646934,"{'type': 'Point', 'coordinates': [-83.206029, 42.646934]}",1,other,1000,1982.0,0.0,Rochester Hills
 2764,Digital Mint,8.528185,47.169157,"{'type': 'Point', 'coordinates': [8.528185, 47.169157]}",1,other,6,2008.0,0.0,Zug
-2765,Citizenside,2.3179601,48.8926988,"{'type': 'Point', 'coordinates': [2.3179601, 48.8926988]}",1,games_video,12,2006.0,1166880.0000627781,Paris
+2765,Citizenside,2.3179601,48.8926988,"{'type': 'Point', 'coordinates': [2.3179601, 48.8926988]}",1,games_video,12,2006.0,1173639.9999642626,Paris
 2766,buzzable,-74.042386,40.845321,"{'type': 'Point', 'coordinates': [-74.042386, 40.845321]}",1,other,4,,0.0,Little Ferry
 2767,NewDocs,-122.6883052,42.183715,"{'type': 'Point', 'coordinates': [-122.6883052, 42.183715]}",1,web,3,2008.0,0.0,Ashland
 2768,Centro,-87.6355433,41.889853,"{'type': 'Point', 'coordinates': [-87.6355433, 41.889853]}",4,advertising,300,2001.0,22500000.0,Chicago
@@ -2908,7 +2908,7 @@
 2906,Phibble,-111.990978,43.4784464,"{'type': 'Point', 'coordinates': [-111.990978, 43.4784464]}",1,other,4,2005.0,0.0,Idaho Falls
 2907,Pilotlite,-74.005398,40.7166822,"{'type': 'Point', 'coordinates': [-74.005398, 40.7166822]}",1,games_video,5,2007.0,0.0,New York
 2908,Boom Engine,-85.7617724,38.2571486,"{'type': 'Point', 'coordinates': [-85.7617724, 38.2571486]}",1,mobile,7,2007.0,0.0,Louisville
-2909,Venyo,6.1534158,46.2030767,"{'type': 'Point', 'coordinates': [6.1534158, 46.2030767]}",1,,5,2006.0,168300.00000905455,Gosselies
+2909,Venyo,6.1534158,46.2030767,"{'type': 'Point', 'coordinates': [6.1534158, 46.2030767]}",1,,5,2006.0,169274.99999484557,Gosselies
 2910,Hosted Solutions,-78.6410833,35.839854,"{'type': 'Point', 'coordinates': [-78.6410833, 35.839854]}",2,enterprise,110,2001.0,0.0,Raleigh
 2911,Herrmann NA,-115.242203,36.1807572,"{'type': 'Point', 'coordinates': [-115.242203, 36.1807572]}",1,web,4,2008.0,0.0,Las Vegas
 2912,SpeedyPin,-116.962896,32.800418,"{'type': 'Point', 'coordinates': [-116.962896, 32.800418]}",1,other,20,2000.0,0.0,El Cajon
@@ -2926,7 +2926,7 @@
 2924,Carsala,-122.268354,37.870457,"{'type': 'Point', 'coordinates': [-122.268354, 37.870457]}",1,web,8,2009.0,0.0,Berkeley
 2925,Wipee List,103.8319842,1.3183692,"{'type': 'Point', 'coordinates': [103.8319842, 1.3183692]}",1,public_relations,2,2008.0,0.0,Singapore
 2926,Agily Networks,-121.947497,37.317799,"{'type': 'Point', 'coordinates': [-121.947497, 37.317799]}",1,software,4,2006.0,250000.0,San Jose
-2927,VODECLIC,2.319287,48.891986,"{'type': 'Point', 'coordinates': [2.319287, 48.891986]}",1,software,20,2007.0,718080.0000386328,Levallois-Perret
+2927,VODECLIC,2.319287,48.891986,"{'type': 'Point', 'coordinates': [2.319287, 48.891986]}",1,software,20,2007.0,722239.9999780077,Levallois-Perret
 2928,Ignitas,10.7431763,59.9093396,"{'type': 'Point', 'coordinates': [10.7431763, 59.9093396]}",1,consulting,5,2007.0,0.0,Oslo
 2929,Dezidr,6.9962192,43.6000902,"{'type': 'Point', 'coordinates': [6.9962192, 43.6000902]}",1,web,1,2007.0,0.0,Mougins
 2930,Speedchecker,-2.6136797,51.4749263,"{'type': 'Point', 'coordinates': [-2.6136797, 51.4749263]}",1,web,2,2008.0,0.0,Bristol
@@ -2939,7 +2939,7 @@
 2937,Green Pages Australia,151.2085974,-33.8835577,"{'type': 'Point', 'coordinates': [151.2085974, -33.8835577]}",1,web,33,2005.0,0.0,Surry Hills
 2938,Momail,18.075506,59.3359806,"{'type': 'Point', 'coordinates': [18.075506, 59.3359806]}",1,mobile,20,2005.0,5400000.0,Stockholm
 2939,HyperWeek,6.1503245,46.2121463,"{'type': 'Point', 'coordinates': [6.1503245, 46.2121463]}",1,social,5,2009.0,1310000.0,Geneva
-2940,ALENTY,2.369933,48.8696389,"{'type': 'Point', 'coordinates': [2.369933, 48.8696389]}",2,advertising,17,2007.0,448800.00002414547,Paris
+2940,ALENTY,2.369933,48.8696389,"{'type': 'Point', 'coordinates': [2.369933, 48.8696389]}",2,advertising,17,2007.0,451399.99998625484,Paris
 2941,pomeloTV,-3.6685036,40.4367771,"{'type': 'Point', 'coordinates': [-3.6685036, 40.4367771]}",1,software,6,2007.0,0.0,Madrid
 2942,Kompoz,-80.3399908,25.6482589,"{'type': 'Point', 'coordinates': [-80.3399908, 25.6482589]}",1,games_video,2,2007.0,0.0,Miami
 2943,LoopNet,-122.3931139,37.7759421,"{'type': 'Point', 'coordinates': [-122.3931139, 37.7759421]}",1,ecommerce,300,1995.0,50000000.0,San Francisco
@@ -3038,7 +3038,7 @@
 3036,b2b2dot0,-78.698154,35.956609,"{'type': 'Point', 'coordinates': [-78.698154, 35.956609]}",1,ecommerce,5,2008.0,0.0,Raleigh
 3037,mFoundry,-122.493561,37.862592,"{'type': 'Point', 'coordinates': [-122.493561, 37.862592]}",1,mobile,160,2004.0,40300000.0,Larkspur
 3038,Technodyne,23.6879859,38.0248447,"{'type': 'Point', 'coordinates': [23.6879859, 38.0248447]}",1,consulting,5,2007.0,0.0,Athens
-3039,VIDDIX,5.1682449,52.0848526,"{'type': 'Point', 'coordinates': [5.1682449, 52.0848526]}",1,games_video,5,2007.0,112200.00000603637,Utrecht
+3039,VIDDIX,5.1682449,52.0848526,"{'type': 'Point', 'coordinates': [5.1682449, 52.0848526]}",1,games_video,5,2007.0,112849.99999656371,Utrecht
 3040,Ramp Technology Group,-122.1962236,47.61251,"{'type': 'Point', 'coordinates': [-122.1962236, 47.61251]}",1,consulting,75,2000.0,0.0,Bellevue
 3041,JobsTAXI,103.842646,1.279684,"{'type': 'Point', 'coordinates': [103.842646, 1.279684]}",1,web,12,2008.0,0.0,Singapore
 3042,Amaze,23.6880355,37.9415136,"{'type': 'Point', 'coordinates': [23.6880355, 37.9415136]}",1,mobile,15,2002.0,0.0,Athens
@@ -3046,7 +3046,7 @@
 3044,Gemzies,4.8419083,52.342938,"{'type': 'Point', 'coordinates': [4.8419083, 52.342938]}",1,games_video,3,2008.0,0.0,Amsterdam
 3045,Planzone,2.1346593,49.5332371,"{'type': 'Point', 'coordinates': [2.1346593, 49.5332371]}",1,software,17,2008.0,0.0,cedex
 3046,SmartEquip,-73.427439,41.143608,"{'type': 'Point', 'coordinates': [-73.427439, 41.143608]}",2,manufacturing,80,2001.0,20700000.0,Norwalk
-3047,MessageBunker,-0.660258,51.793944,"{'type': 'Point', 'coordinates': [-0.660258, 51.793944]}",1,enterprise,7,2008.0,124766.47985104656,Hertfordshire
+3047,MessageBunker,-0.660258,51.793944,"{'type': 'Point', 'coordinates': [-0.660258, 51.793944]}",1,enterprise,7,2008.0,125682.14723796018,Hertfordshire
 3048,G-uniX Technologies,-79.2202391,43.8102632,"{'type': 'Point', 'coordinates': [-79.2202391, 43.8102632]}",1,software,1,2003.0,0.0,Toronto
 3049,Big Universe,-121.8747802,37.6789843,"{'type': 'Point', 'coordinates': [-121.8747802, 37.6789843]}",1,web,3,2006.0,0.0,Reston
 3050,CyberSynchs,-73.990033,40.745534,"{'type': 'Point', 'coordinates': [-73.990033, 40.745534]}",1,mobile,100,2008.0,0.0,NYC
@@ -3140,7 +3140,7 @@
 3138,able2know,-122.335109,47.5990906,"{'type': 'Point', 'coordinates': [-122.335109, 47.5990906]}",1,web,5,2008.0,0.0,Seattle
 3139,Unison Technologies,-73.9799007,40.7645772,"{'type': 'Point', 'coordinates': [-73.9799007, 40.7645772]}",1,software,30,2011.0,0.0,New York
 3140,Shortlister,-87.9614042,41.8793918,"{'type': 'Point', 'coordinates': [-87.9614042, 41.8793918]}",1,ecommerce,2,2008.0,0.0,Elmhurst
-3141,Viigo,-79.3723339,43.6490004,"{'type': 'Point', 'coordinates': [-79.3723339, 43.6490004]}",1,mobile,30,2004.0,6024468.15733729,Toronto
+3141,Viigo,-79.3723339,43.6490004,"{'type': 'Point', 'coordinates': [-79.3723339, 43.6490004]}",1,mobile,30,2004.0,6050322.361803445,Toronto
 3142,TRIBAX,13.3922487,52.5273098,"{'type': 'Point', 'coordinates': [13.3922487, 52.5273098]}",1,network_hosting,12,2008.0,0.0,Berlin
 3143,Quantivo,-122.3208802,37.5455355,"{'type': 'Point', 'coordinates': [-122.3208802, 37.5455355]}",1,analytics,20,2005.0,9400000.0,Emeryville
 3144,Silver Tail Systems,-122.143368,37.4280877,"{'type': 'Point', 'coordinates': [-122.143368, 37.4280877]}",1,analytics,90,2008.0,22100000.0,Menlo Park
@@ -3151,7 +3151,7 @@
 3149,MyBizHomepage,-77.737299,38.969072,"{'type': 'Point', 'coordinates': [-77.737299, 38.969072]}",1,software,5,,0.0,Middleburg
 3150,Sencia,-89.2225515,48.4317715,"{'type': 'Point', 'coordinates': [-89.2225515, 48.4317715]}",1,software,14,2001.0,0.0,Thunder Bay
 3151,Cartfly,-112.074887,33.468396,"{'type': 'Point', 'coordinates': [-112.074887, 33.468396]}",1,ecommerce,17,2006.0,0.0,Phoenix
-3152,Aftercad Software,-123.1152075,49.2540299,"{'type': 'Point', 'coordinates': [-123.1152075, 49.2540299]}",1,enterprise,12,2004.0,838849.9965912682,Vancouver
+3152,Aftercad Software,-123.1152075,49.2540299,"{'type': 'Point', 'coordinates': [-123.1152075, 49.2540299]}",1,enterprise,12,2004.0,842449.949111872,Vancouver
 3153,The WebMan Network,-84.7022943,40.9168939,"{'type': 'Point', 'coordinates': [-84.7022943, 40.9168939]}",1,web,1,2001.0,0.0,Convoy
 3154,Logic Voice,-73.7709398,40.6607436,"{'type': 'Point', 'coordinates': [-73.7709398, 40.6607436]}",1,messaging,61,2008.0,0.0,Queens
 3155,BAK2u,103.8557638,1.297079,"{'type': 'Point', 'coordinates': [103.8557638, 1.297079]}",1,software,15,2005.0,0.0,Singapore
@@ -3164,7 +3164,7 @@
 3162,Tengaged,2.1634249,41.4241228,"{'type': 'Point', 'coordinates': [2.1634249, 41.4241228]}",1,games_video,1,2010.0,15000.0,Barcelona
 3163,Redriever,24.9639412,60.167909,"{'type': 'Point', 'coordinates': [24.9639412, 60.167909]}",2,mobile,6,2008.0,0.0,Helsinki
 3164,Drync,-71.14462,42.376862,"{'type': 'Point', 'coordinates': [-71.14462, 42.376862]}",1,mobile,8,2008.0,1770000.0,Boston
-3165,op5,17.9348818,59.4064174,"{'type': 'Point', 'coordinates': [17.9348818, 59.4064174]}",1,software,30,2003.0,2220881.679286493,Kista
+3165,op5,17.9348818,59.4064174,"{'type': 'Point', 'coordinates': [17.9348818, 59.4064174]}",1,software,30,2003.0,2239764.479053409,Kista
 3166,Doppler Internet,-87.346304,41.460544,"{'type': 'Point', 'coordinates': [-87.346304, 41.460544]}",1,advertising,30,,0.0,Merrillville
 3167,Bitam,-77.351006,38.952289,"{'type': 'Point', 'coordinates': [-77.351006, 38.952289]}",1,software,130,2000.0,0.0,Reston
 3168,Voyij,-122.0304277,37.3183828,"{'type': 'Point', 'coordinates': [-122.0304277, 37.3183828]}",1,web,4,2008.0,0.0,Cupertino
@@ -3253,7 +3253,7 @@
 3251,Why Hasn't He?,-73.9914834,40.7703479,"{'type': 'Point', 'coordinates': [-73.9914834, 40.7703479]}",1,games_video,0,2008.0,0.0,New York City
 3252,Zoosa,-71.101263,42.438517,"{'type': 'Point', 'coordinates': [-71.101263, 42.438517]}",1,enterprise,2,2008.0,0.0,Medford
 3253,ClickSquared,-71.2709869,42.3913892,"{'type': 'Point', 'coordinates': [-71.2709869, 42.3913892]}",1,software,175,1999.0,56700000.0,Boston
-3254,mydeco,-0.468617,51.518101,"{'type': 'Point', 'coordinates': [-0.468617, 51.518101]}",1,web,35,2007.0,15595809.98138082,London
+3254,mydeco,-0.468617,51.518101,"{'type': 'Point', 'coordinates': [-0.468617, 51.518101]}",1,web,35,2007.0,15710268.404745024,London
 3255,Publicadigital,-3.6768945,40.4291944,"{'type': 'Point', 'coordinates': [-3.6768945, 40.4291944]}",1,software,5,,0.0,Madrid
 3256,MyOtherDrive,-84.1949463,39.7605421,"{'type': 'Point', 'coordinates': [-84.1949463, 39.7605421]}",1,games_video,5,2005.0,1000000.0,Dayton
 3257,RGB Networks,-122.0216271,37.4123706,"{'type': 'Point', 'coordinates': [-122.0216271, 37.4123706]}",1,games_video,125,2003.0,52000000.0,Sunnyvale
@@ -3398,7 +3398,7 @@
 3396,SHpartners,3.6820756,51.0198642,"{'type': 'Point', 'coordinates': [3.6820756, 51.0198642]}",1,software,17,1996.0,0.0,Gent
 3397,CreationFlow,-58.4339539,-34.6028583,"{'type': 'Point', 'coordinates': [-58.4339539, -34.6028583]}",1,games_video,4,2007.0,150000.0,Ciudad de Buenos Aires
 3398,Blosm,-105.050978,39.698076,"{'type': 'Point', 'coordinates': [-105.050978, 39.698076]}",1,other,3,2007.0,0.0,Denver
-3399,Quick TV,-1.6194034,54.971065,"{'type': 'Point', 'coordinates': [-1.6194034, 54.971065]}",2,enterprise,6,2007.0,3605751.267695246,Newcastle Upon Tyne
+3399,Quick TV,-1.6194034,54.971065,"{'type': 'Point', 'coordinates': [-1.6194034, 54.971065]}",2,enterprise,6,2007.0,3632214.0551770492,Newcastle Upon Tyne
 3400,MCorp Consulting,-122.4999353,37.9574579,"{'type': 'Point', 'coordinates': [-122.4999353, 37.9574579]}",2,consulting,18,2003.0,0.0,San Rafael
 3401,Joshua Tree Enterprises,-77.060577,38.904648,"{'type': 'Point', 'coordinates': [-77.060577, 38.904648]}",1,web,4,2006.0,0.0,Washington
 3402,RS Techno Solutions,75.7969791,26.9330943,"{'type': 'Point', 'coordinates': [75.7969791, 26.9330943]}",1,software,10,2007.0,0.0,
@@ -3436,7 +3436,7 @@
 3434,MBV,-73.9639021,40.763498,"{'type': 'Point', 'coordinates': [-73.9639021, 40.763498]}",1,other,2,2008.0,0.0,New York
 3435,Tripbase,-122.159928,37.437328,"{'type': 'Point', 'coordinates': [-122.159928, 37.437328]}",1,web,10,2005.0,0.0,San Francisco
 3436,[x+1],-73.982624,40.7455068,"{'type': 'Point', 'coordinates': [-73.982624, 40.7455068]}",1,enterprise,105,1999.0,45000000.0,New York
-3437,Spoonfed,-1.2186724,51.7577453,"{'type': 'Point', 'coordinates': [-1.2186724, 51.7577453]}",1,games_video,16,2006.0,595136.1088894921,London
+3437,Spoonfed,-1.2186724,51.7577453,"{'type': 'Point', 'coordinates': [-1.2186724, 51.7577453]}",1,games_video,16,2006.0,599503.84232507,London
 3438,Swyzzle,-84.2956,34.0758,"{'type': 'Point', 'coordinates': [-84.2956, 34.0758]}",1,software,3,2006.0,90000.0,Alpharetta
 3439,RentLinx,-83.747763,42.299078,"{'type': 'Point', 'coordinates': [-83.747763, 42.299078]}",1,advertising,3,2003.0,0.0,Ann Arbor
 3440,Rhxo Technology Group,-73.974714,40.762897,"{'type': 'Point', 'coordinates': [-73.974714, 40.762897]}",1,software,35,2004.0,0.0,New York
@@ -3590,7 +3590,7 @@
 3588,Interacto,5.5858466,51.3673409,"{'type': 'Point', 'coordinates': [5.5858466, 51.3673409]}",1,web,2,2009.0,0.0,Heeze
 3589,Asurrent,-84.495636,34.013247,"{'type': 'Point', 'coordinates': [-84.495636, 34.013247]}",1,web,3,2009.0,0.0,Marietta
 3590,Neverblue,-123.363909,48.4244865,"{'type': 'Point', 'coordinates': [-123.363909, 48.4244865]}",1,web,110,2004.0,0.0,Victoria
-3591,Shutl,-0.1020265,51.5196135,"{'type': 'Point', 'coordinates': [-0.1020265, 51.5196135]}",1,ecommerce,10,2009.0,9557112.356590167,London
+3591,Shutl,-0.1020265,51.5196135,"{'type': 'Point', 'coordinates': [-0.1020265, 51.5196135]}",1,ecommerce,10,2009.0,9627252.47842775,London
 3592,Medio,-122.331308,47.611827,"{'type': 'Point', 'coordinates': [-122.331308, 47.611827]}",1,software,90,2004.0,30000000.0,Seattle
 3593,Electronic Media Publishing,-90.490704,38.570681,"{'type': 'Point', 'coordinates': [-90.490704, 38.570681]}",1,software,1,2007.0,0.0,St. Louis
 3594,LuckyDogJobs,-90.490704,38.570681,"{'type': 'Point', 'coordinates': [-90.490704, 38.570681]}",1,search,4,2004.0,0.0,St Louis
@@ -3701,7 +3701,7 @@
 3699,Condesa,-116.966996,32.653881,"{'type': 'Point', 'coordinates': [-116.966996, 32.653881]}",1,advertising,2,2002.0,0.0,Chula Vista
 3700,TVF Communications,-0.1033237,51.5312232,"{'type': 'Point', 'coordinates': [-0.1033237, 51.5312232]}",1,consulting,13,1983.0,0.0,London
 3701,Blabberbug,-76.890977,40.266305,"{'type': 'Point', 'coordinates': [-76.890977, 40.266305]}",1,advertising,1,2008.0,0.0,Harrisburg
-3702,studdex,7.3554365,51.4523335,"{'type': 'Point', 'coordinates': [7.3554365, 51.4523335]}",1,web,10,2008.0,201960.00001086545,Berlin
+3702,studdex,7.3554365,51.4523335,"{'type': 'Point', 'coordinates': [7.3554365, 51.4523335]}",1,web,10,2008.0,203129.99999381468,Berlin
 3703,Babajob,77.5557097,12.9211588,"{'type': 'Point', 'coordinates': [77.5557097, 12.9211588]}",1,web,20,2007.0,0.0,Bangalore
 3704,We Are Business,-86.6960902,33.4191513,"{'type': 'Point', 'coordinates': [-86.6960902, 33.4191513]}",1,web,2,1996.0,0.0,Birmingham
 3705,Online Chess LLC,-71.9463,44.4387,"{'type': 'Point', 'coordinates': [-71.9463, 44.4387]}",1,web,2,2003.0,0.0,Johnsbury
@@ -3712,7 +3712,7 @@
 3710,Transcensus,-111.6850207,40.311946,"{'type': 'Point', 'coordinates': [-111.6850207, 40.311946]}",1,software,15,2004.0,0.0,Orem
 3711,Wire2Air,-74.5081114,40.4035437,"{'type': 'Point', 'coordinates': [-74.5081114, 40.4035437]}",1,mobile,25,2002.0,0.0,New York
 3712,Transifex,-122.1842112,37.4513629,"{'type': 'Point', 'coordinates': [-122.1842112, 37.4513629]}",1,software,12,2009.0,0.0,Menlo Park
-3713,Comunitae,-3.7033403,40.4905109,"{'type': 'Point', 'coordinates': [-3.7033403, 40.4905109]}",1,finance,6,2008.0,3927000.000211273,Madrid
+3713,Comunitae,-3.7033403,40.4905109,"{'type': 'Point', 'coordinates': [-3.7033403, 40.4905109]}",1,finance,6,2008.0,3949749.99987973,Madrid
 3714,HItviews,-73.991535,40.733201,"{'type': 'Point', 'coordinates': [-73.991535, 40.733201]}",2,advertising,12,2007.0,2290000.0,New York City
 3715,completelyprivatefiles,-116.5625,43.5408,"{'type': 'Point', 'coordinates': [-116.5625, 43.5408]}",1,security,1,2009.0,0.0,Nampa
 3716,EyeBuyDirect,-77.093279,38.9825332,"{'type': 'Point', 'coordinates': [-77.093279, 38.9825332]}",1,ecommerce,200,2005.0,0.0,Austin
@@ -3763,7 +3763,7 @@
 3761,dsignz media,80.2156162,13.0445424,"{'type': 'Point', 'coordinates': [80.2156162, 13.0445424]}",1,web,25,2005.0,0.0,"Kodambakkam, Chennai"
 3762,ScoreGrid,28.0354352,-26.1470966,"{'type': 'Point', 'coordinates': [28.0354352, -26.1470966]}",1,network_hosting,10,2007.0,700000.0,Johannesburg
 3763,Frosmo,24.9438568,60.1659819,"{'type': 'Point', 'coordinates': [24.9438568, 60.1659819]}",1,ecommerce,15,2008.0,0.0,Helsinki
-3764,Dodreams,24.9438568,60.1659819,"{'type': 'Point', 'coordinates': [24.9438568, 60.1659819]}",1,games_video,6,2008.0,841500.0000452728,
+3764,Dodreams,24.9438568,60.1659819,"{'type': 'Point', 'coordinates': [24.9438568, 60.1659819]}",1,games_video,6,2008.0,846374.9999742279,
 3765,FreshNetworks,-0.11796,51.5178123,"{'type': 'Point', 'coordinates': [-0.11796, 51.5178123]}",1,software,12,2007.0,0.0,London
 3766,SwitchGames,-73.9867361,40.7297485,"{'type': 'Point', 'coordinates': [-73.9867361, 40.7297485]}",1,games_video,3,2008.0,0.0,New York
 3767,Startup Revival,-122.419204,37.775196,"{'type': 'Point', 'coordinates': [-122.419204, 37.775196]}",1,public_relations,1,2009.0,0.0,San Francisco
@@ -3774,7 +3774,7 @@
 3772,BestThinking,-78.7865297,35.8299099,"{'type': 'Point', 'coordinates': [-78.7865297, 35.8299099]}",1,web,12,2007.0,0.0,Cary
 3773,Coupon Tweet,-87.624333,41.879535,"{'type': 'Point', 'coordinates': [-87.624333, 41.879535]}",1,web,12,2008.0,0.0,Chicago
 3774,Pliant Technology,-121.9160606,37.413319,"{'type': 'Point', 'coordinates': [-121.9160606, 37.413319]}",1,enterprise,22,2006.0,50300000.0,Milpitas
-3775,Anygma,4.3904302,51.2057495,"{'type': 'Point', 'coordinates': [4.3904302, 51.2057495]}",2,public_relations,20,2007.0,1795200.0000965819,Antwerpen
+3775,Anygma,4.3904302,51.2057495,"{'type': 'Point', 'coordinates': [4.3904302, 51.2057495]}",2,public_relations,20,2007.0,1805599.9999450194,Antwerpen
 3776,CitySpur,-111.909805,33.487056,"{'type': 'Point', 'coordinates': [-111.909805, 33.487056]}",1,public_relations,17,2009.0,0.0,Scottsdale
 3777,Enclarity,-117.7306817,33.5842816,"{'type': 'Point', 'coordinates': [-117.7306817, 33.5842816]}",1,consulting,50,2005.0,5500000.0,Aliso Viejo
 3778,Ockham Research,-84.361865,34.030223,"{'type': 'Point', 'coordinates': [-84.361865, 34.030223]}",1,web,7,2006.0,0.0,Roswell
@@ -3782,7 +3782,7 @@
 3780,Soliton Technologies,77.5655466,13.0056401,"{'type': 'Point', 'coordinates': [77.5655466, 13.0056401]}",1,enterprise,26,2004.0,0.0,Bangalore
 3781,Tiriyo Technologies,80.182297,13.0985851,"{'type': 'Point', 'coordinates': [80.182297, 13.0985851]}",1,enterprise,7,2008.0,0.0,Chennai
 3782,GreenITers,-122.159291,37.443,"{'type': 'Point', 'coordinates': [-122.159291, 37.443]}",1,cleantech,4,2009.0,0.0,Tokyo
-3783,SocialCom,13.3740493,52.5375697,"{'type': 'Point', 'coordinates': [13.3740493, 52.5375697]}",1,ecommerce,5,2008.0,227766.00001225382,Munich
+3783,SocialCom,13.3740493,52.5375697,"{'type': 'Point', 'coordinates': [13.3740493, 52.5375697]}",1,ecommerce,5,2008.0,229085.49999302434,Munich
 3784,Meedan,-122.422503,37.786317,"{'type': 'Point', 'coordinates': [-122.422503, 37.786317]}",1,search,20,2007.0,0.0,San Francisco
 3785,SmeadSoft,-92.8450586,44.7362724,"{'type': 'Point', 'coordinates': [-92.8450586, 44.7362724]}",2,software,1000,1906.0,0.0,Hastings
 3786,Imaginova,-73.9826042,40.7454971,"{'type': 'Point', 'coordinates': [-73.9826042, 40.7454971]}",1,ecommerce,150,,15000000.0,New York
@@ -3877,7 +3877,7 @@
 3875,eCommerce Positioning,-122.255136,47.931263,"{'type': 'Point', 'coordinates': [-122.255136, 47.931263]}",1,consulting,15,2007.0,0.0,everett
 3876,Mingle360,-77.272117,38.816765,"{'type': 'Point', 'coordinates': [-77.272117, 38.816765]}",1,mobile,6,2006.0,95000.0,Fairfax
 3877,VitalLock,-71.083762,42.362856,"{'type': 'Point', 'coordinates': [-71.083762, 42.362856]}",1,web,4,2009.0,0.0,Cambridge
-3878,Gridstore,-122.0884286,37.4189073,"{'type': 'Point', 'coordinates': [-122.0884286, 37.4189073]}",1,network_hosting,31,2009.0,28050000.00150909,Mountain View
+3878,Gridstore,-122.0884286,37.4189073,"{'type': 'Point', 'coordinates': [-122.0884286, 37.4189073]}",1,network_hosting,31,2009.0,28212499.99914093,Mountain View
 3879,Masterpiece,-0.0833747,51.5219131,"{'type': 'Point', 'coordinates': [-0.0833747, 51.5219131]}",1,advertising,32,1999.0,0.0,London
 3880,Xact Check,-118.395863,34.0324632,"{'type': 'Point', 'coordinates': [-118.395863, 34.0324632]}",1,other,46,2000.0,0.0,Washington
 3881,BUGBYTE,4.7787001,51.5864572,"{'type': 'Point', 'coordinates': [4.7787001, 51.5864572]}",1,software,3,2005.0,0.0,Breda
@@ -3895,12 +3895,12 @@
 3893,Digital Sports Ventures,-94.710676,38.974099,"{'type': 'Point', 'coordinates': [-94.710676, 38.974099]}",1,games_video,9,,0.0,Overland Park
 3894,Symmecon Grand Unified Theory Marketing,-106.772712,32.303433,"{'type': 'Point', 'coordinates': [-106.772712, 32.303433]}",1,consulting,1,2007.0,0.0,Las Cruces
 3895,Liberty League International,-111.898091,33.616228,"{'type': 'Point', 'coordinates': [-111.898091, 33.616228]}",1,other,8000,2001.0,0.0,Scottsdale
-3896,Atraverda,-82.2927796,23.066066,"{'type': 'Point', 'coordinates': [-82.2927796, 23.066066]}",1,cleantech,24,2005.0,20711235.65527373,"Abertillery, Gwent,"
+3896,Atraverda,-82.2927796,23.066066,"{'type': 'Point', 'coordinates': [-82.2927796, 23.066066]}",1,cleantech,24,2005.0,20863236.441501394,"Abertillery, Gwent,"
 3897,BioVex,-1.289082,51.671711,"{'type': 'Point', 'coordinates': [-1.289082, 51.671711]}",2,biotech,29,2006.0,122000000.0,Oxon
 3898,TBG Security,-71.4092197,42.0832808,"{'type': 'Point', 'coordinates': [-71.4092197, 42.0832808]}",1,security,25,2003.0,0.0,Franklin
 3899,Vialect,-83.0043525,42.3004224,"{'type': 'Point', 'coordinates': [-83.0043525, 42.3004224]}",1,enterprise,25,2004.0,0.0,Windsor
 3900,Proper Cloth,-74.008767,40.723351,"{'type': 'Point', 'coordinates': [-74.008767, 40.723351]}",1,ecommerce,1,2008.0,100000.0,New York
-3901,GoHome,15.8012365,45.816128,"{'type': 'Point', 'coordinates': [15.8012365, 45.816128]}",5,search,19,2007.0,953700.0000513091,Zagreb
+3901,GoHome,15.8012365,45.816128,"{'type': 'Point', 'coordinates': [15.8012365, 45.816128]}",5,search,19,2007.0,959224.9999707915,Zagreb
 3902,Javaground,-117.7072003,33.6609101,"{'type': 'Point', 'coordinates': [-117.7072003, 33.6609101]}",1,mobile,70,2001.0,0.0,Irvine
 3903,Gifteer,4.8343287,45.767299,"{'type': 'Point', 'coordinates': [4.8343287, 45.767299]}",1,web,4,2008.0,0.0,Lyon
 3904,Tweetizen,-123.1783566,49.2685125,"{'type': 'Point', 'coordinates': [-123.1783566, 49.2685125]}",1,other,2,2009.0,0.0,Vancouver
@@ -3909,11 +3909,11 @@
 3907,DOMODESK,-0.3983456,39.4612679,"{'type': 'Point', 'coordinates': [-0.3983456, 39.4612679]}",3,mobile,13,1998.0,0.0,Valencia
 3908,Cornerstone OnDemand,-118.472577,34.028182,"{'type': 'Point', 'coordinates': [-118.472577, 34.028182]}",1,software,881,1999.0,44700000.0,Santa Monica
 3909,Distant Measures,-112.0118669,33.5725815,"{'type': 'Point', 'coordinates': [-112.0118669, 33.5725815]}",1,software,10,2006.0,0.0,
-3910,Kiala,4.3652584,50.8256038,"{'type': 'Point', 'coordinates': [4.3652584, 50.8256038]}",1,other,37,2000.0,40923405.39114327,
+3910,Kiala,4.3652584,50.8256038,"{'type': 'Point', 'coordinates': [4.3652584, 50.8256038]}",1,other,37,2000.0,41223744.29405093,
 3911,mindsquare,8.5603878,52.0066973,"{'type': 'Point', 'coordinates': [8.5603878, 52.0066973]}",1,consulting,50,2007.0,0.0,Bielefeld
 3912,Scopial Fashions,72.9637728,19.2025218,"{'type': 'Point', 'coordinates': [72.9637728, 19.2025218]}",1,web,4,2008.0,0.0,Thane West
 3913,Stentys,2.3359741,48.8707984,"{'type': 'Point', 'coordinates': [2.3359741, 48.8707984]}",2,medical,5,2006.0,72800000.0,Paris
-3914,Sift,-2.5869272,51.451168,"{'type': 'Point', 'coordinates': [-2.5869272, 51.451168]}",1,software,105,1996.0,4666266.346429141,Bristol
+3914,Sift,-2.5869272,51.451168,"{'type': 'Point', 'coordinates': [-2.5869272, 51.451168]}",1,software,105,1996.0,4700512.306699711,Bristol
 3915,IrishCentral,-73.989276,40.74828,"{'type': 'Point', 'coordinates': [-73.989276, 40.74828]}",1,public_relations,20,2009.0,0.0,New York
 3916,SJV Technology Group,-119.79545,36.742342,"{'type': 'Point', 'coordinates': [-119.79545, 36.742342]}",1,software,10,1998.0,0.0,Fresno
 3917,DEAC,24.1532741,56.9549274,"{'type': 'Point', 'coordinates': [24.1532741, 56.9549274]}",1,public_relations,50,1999.0,0.0,Riga
@@ -3952,7 +3952,7 @@
 3950,ToonUps,-75.39342,40.046431,"{'type': 'Point', 'coordinates': [-75.39342, 40.046431]}",1,games_video,10,2001.0,0.0,Wayne
 3951,Personal Estate Manager,-83.0294402,42.6031277,"{'type': 'Point', 'coordinates': [-83.0294402, 42.6031277]}",1,software,22,2004.0,180000.0,Shelby Township
 3952,House Party,-73.8731834,41.0409527,"{'type': 'Point', 'coordinates': [-73.8731834, 41.0409527]}",1,advertising,70,2005.0,9950000.0,Irvington
-3953,Verisim,-3.3090825,55.934152,"{'type': 'Point', 'coordinates': [-3.3090825, 55.934152]}",1,software,12,2001.0,1497197.7582125587,Edinburgh
+3953,Verisim,-3.3090825,55.934152,"{'type': 'Point', 'coordinates': [-3.3090825, 55.934152]}",1,software,12,2001.0,1508185.7668555223,Edinburgh
 3954,iMediaStreams,-74.182118,40.742416,"{'type': 'Point', 'coordinates': [-74.182118, 40.742416]}",2,advertising,9,2007.0,0.0,Newark
 3955,financialjoe,-122.176034,47.6793,"{'type': 'Point', 'coordinates': [-122.176034, 47.6793]}",1,web,2,2004.0,0.0,Kirkland
 3956,StoreBlogs,-122.141024,47.6859063,"{'type': 'Point', 'coordinates': [-122.141024, 47.6859063]}",1,other,10,2009.0,0.0,Redmond
@@ -3971,7 +3971,7 @@
 3969,SCVNGR,-71.0680027,42.3406534,"{'type': 'Point', 'coordinates': [-71.0680027, 42.3406534]}",1,games_video,60,2008.0,40800000.0,Boston
 3970,Calient Technologies,-121.93006,37.387642,"{'type': 'Point', 'coordinates': [-121.93006, 37.387642]}",1,network_hosting,30,1999.0,51400000.0,Goleta
 3971,Fotomina,24.4280745,60.123399,"{'type': 'Point', 'coordinates': [24.4280745, 60.123399]}",1,web,4,2009.0,0.0,Kirkkonummi
-3972,Owlient,2.3032201,48.8308091,"{'type': 'Point', 'coordinates': [2.3032201, 48.8308091]}",1,games_video,40,2005.0,3366000.000181091,Paris
+3972,Owlient,2.3032201,48.8308091,"{'type': 'Point', 'coordinates': [2.3032201, 48.8308091]}",1,games_video,40,2005.0,3385499.9998969114,Paris
 3973,tolingo,9.9255806,53.5617341,"{'type': 'Point', 'coordinates': [9.9255806, 53.5617341]}",1,messaging,40,2008.0,600000.0,Hamburg
 3974,Axcient,-122.0595623,37.3973018,"{'type': 'Point', 'coordinates': [-122.0595623, 37.3973018]}",1,enterprise,150,2006.0,64200000.0,Mountain View
 3975,Azteria,-121.312515,44.06048,"{'type': 'Point', 'coordinates': [-121.312515, 44.06048]}",1,search,7,2003.0,0.0,Bend
@@ -4009,7 +4009,7 @@
 4007,SwapBeats,-93.264351,44.977482,"{'type': 'Point', 'coordinates': [-93.264351, 44.977482]}",1,software,12,2008.0,300000.0,Minneapolis
 4008,Validize,-71.257919,42.390143,"{'type': 'Point', 'coordinates': [-71.257919, 42.390143]}",1,security,3,2008.0,0.0,Waltham
 4009,InfoCommerce Group,-75.232339,40.004592,"{'type': 'Point', 'coordinates': [-75.232339, 40.004592]}",1,consulting,5,1995.0,0.0,Bala Cynwyd
-4010,Gate 53|10 Technologies,10.0184565,53.5736401,"{'type': 'Point', 'coordinates': [10.0184565, 53.5736401]}",1,web,4,2009.0,158202.00000851127,Hamburg
+4010,Gate 53|10 Technologies,10.0184565,53.5736401,"{'type': 'Point', 'coordinates': [10.0184565, 53.5736401]}",1,web,4,2009.0,159118.49999515482,Hamburg
 4011,Simply Ideas,-80.1935478,26.0562904,"{'type': 'Point', 'coordinates': [-80.1935478, 26.0562904]}",1,advertising,5,2007.0,0.0,Hollywood
 4012,Y Media Labs,-122.229097,37.494561,"{'type': 'Point', 'coordinates': [-122.229097, 37.494561]}",1,mobile,50,2009.0,0.0,Redwood City
 4013,preAmped,-81.141475,28.518768,"{'type': 'Point', 'coordinates': [-81.141475, 28.518768]}",1,games_video,3,2007.0,0.0,Orlando
@@ -4026,7 +4026,7 @@
 4024,Sowre,2.1491951,41.3943671,"{'type': 'Point', 'coordinates': [2.1491951, 41.3943671]}",2,consulting,200,,0.0,Barcelona
 4025,Tamundo,13.3913657,52.525354,"{'type': 'Point', 'coordinates': [13.3913657, 52.525354]}",1,ecommerce,28,2008.0,0.0,Berlin
 4026,Uvumi,-97.7428,30.2667,"{'type': 'Point', 'coordinates': [-97.7428, 30.2667]}",1,other,5,2008.0,0.0,Austin
-4027,Musicmetric,-0.0856982,51.5253765,"{'type': 'Point', 'coordinates': [-0.0856982, 51.5253765]}",1,music,15,2008.0,4242060.314935584,London
+4027,Musicmetric,-0.0856982,51.5253765,"{'type': 'Point', 'coordinates': [-0.0856982, 51.5253765]}",1,music,15,2008.0,4273193.006090647,London
 4028,Neovada,10.7963809,59.9137459,"{'type': 'Point', 'coordinates': [10.7963809, 59.9137459]}",1,web,16,2008.0,0.0,Oslo
 4029,oneforty,-71.101375,42.364014,"{'type': 'Point', 'coordinates': [-71.101375, 42.364014]}",1,enterprise,5,2009.0,2350000.0,Cambridge
 4030,NetHooks,-122.086989,37.41364,"{'type': 'Point', 'coordinates': [-122.086989, 37.41364]}",1,network_hosting,4,2007.0,100000.0,Mountain View
@@ -4041,7 +4041,7 @@
 4039,HealthEngine,115.89084,-31.97822,"{'type': 'Point', 'coordinates': [115.89084, -31.97822]}",1,web,12,2007.0,10400000.0,Perth
 4040,Amvona,-71.2280234,42.0092584,"{'type': 'Point', 'coordinates': [-71.2280234, 42.0092584]}",1,search,1,1999.0,0.0,
 4041,Excellentia Software,-106.8234016,34.62779,"{'type': 'Point', 'coordinates': [-106.8234016, 34.62779]}",1,software,2,2007.0,0.0,Belen
-4042,ControlCircle,-0.0178689,51.5003204,"{'type': 'Point', 'coordinates': [-0.0178689, 51.5003204]}",1,network_hosting,105,2001.0,7485988.791062794,London
+4042,ControlCircle,-0.0178689,51.5003204,"{'type': 'Point', 'coordinates': [-0.0178689, 51.5003204]}",1,network_hosting,105,2001.0,7540928.834277611,London
 4043,Link Trigger,-80.1510951,26.2032036,"{'type': 'Point', 'coordinates': [-80.1510951, 26.2032036]}",1,software,7,2008.0,500000.0,Fort Lauderdale
 4044,IdentityTruth,-71.256461,42.409853,"{'type': 'Point', 'coordinates': [-71.256461, 42.409853]}",1,security,22,2007.0,0.0,Waltham
 4045,80legs,-95.598441,29.787991,"{'type': 'Point', 'coordinates': [-95.598441, 29.787991]}",1,,6,2008.0,0.0,Houston
@@ -4125,11 +4125,11 @@
 4123,VetAnyware,-121.734779,38.552782,"{'type': 'Point', 'coordinates': [-121.734779, 38.552782]}",1,enterprise,3,2009.0,0.0,Davis
 4124,Jakun Media,10.1251434,53.5849353,"{'type': 'Point', 'coordinates': [10.1251434, 53.5849353]}",1,games_video,4,2008.0,0.0,Berlin
 4125,Trackset,10.3965843,43.7161354,"{'type': 'Point', 'coordinates': [10.3965843, 43.7161354]}",2,software,30,2007.0,0.0,Pisa
-4126,Specle,-0.1067217,51.5080607,"{'type': 'Point', 'coordinates': [-0.1067217, 51.5080607]}",1,advertising,9,2006.0,1119155.3242638877,London
+4126,Specle,-0.1067217,51.5080607,"{'type': 'Point', 'coordinates': [-0.1067217, 51.5080607]}",1,advertising,9,2006.0,1127368.860724503,London
 4127,MicroMedia,14.5403234,50.6850903,"{'type': 'Point', 'coordinates': [14.5403234, 50.6850903]}",2,mobile,25,2006.0,0.0,ÄŒeskÃ¡ LÃ­pa
-4128,WEEZEVENT,2.4476331,48.8952712,"{'type': 'Point', 'coordinates': [2.4476331, 48.8952712]}",1,ecommerce,20,2008.0,1234200.0000664,Paris
+4128,WEEZEVENT,2.4476331,48.8952712,"{'type': 'Point', 'coordinates': [2.4476331, 48.8952712]}",1,ecommerce,20,2008.0,1241349.9999622009,Paris
 4129,Azavea,-75.1583802,39.9587169,"{'type': 'Point', 'coordinates': [-75.1583802, 39.9587169]}",1,software,25,2000.0,0.0,Philadelphia
-4130,IMASTE,-3.6755166,40.4272451,"{'type': 'Point', 'coordinates': [-3.6755166, 40.4272451]}",1,enterprise,30,2003.0,785400.0000422546,Madrid
+4130,IMASTE,-3.6755166,40.4272451,"{'type': 'Point', 'coordinates': [-3.6755166, 40.4272451]}",1,enterprise,30,2003.0,789949.999975946,Madrid
 4131,Next Door Media,-122.3824321,47.6913332,"{'type': 'Point', 'coordinates': [-122.3824321, 47.6913332]}",1,web,3,2007.0,0.0,Seattle
 4132,Jumbilo,153.2075297,-27.917488,"{'type': 'Point', 'coordinates': [153.2075297, -27.917488]}",1,software,5,2008.0,0.0,Eagle Heights
 4133,Digitally Imported,-122.158475,37.447309,"{'type': 'Point', 'coordinates': [-122.158475, 37.447309]}",1,games_video,7,2000.0,0.0,Denver
@@ -4137,8 +4137,8 @@
 4135,goofbucket,-95.0374214,40.7486101,"{'type': 'Point', 'coordinates': [-95.0374214, 40.7486101]}",1,other,2,2008.0,0.0,Clarinda
 4136,Two Animators! LLP,-74.674281,40.2651249,"{'type': 'Point', 'coordinates': [-74.674281, 40.2651249]}",1,games_video,6,2001.0,0.0,Hamilton
 4137,Gear6,-122.050179,37.389615,"{'type': 'Point', 'coordinates': [-122.050179, 37.389615]}",1,network_hosting,20,2006.0,20000000.0,Mountain View
-4138,Tuenti Technologies,-3.696277,40.4158236,"{'type': 'Point', 'coordinates': [-3.696277, 40.4158236]}",1,social,170,2006.0,10098000.000543272,Madrid
-4139,Teachable,-1.0912028,51.2057651,"{'type': 'Point', 'coordinates': [-1.0912028, 51.2057651]}",1,ecommerce,5,2007.0,99813.18388083726,Basingstoke
+4138,Tuenti Technologies,-3.696277,40.4158236,"{'type': 'Point', 'coordinates': [-3.696277, 40.4158236]}",1,social,170,2006.0,10156499.999690734,Madrid
+4139,Teachable,-1.0912028,51.2057651,"{'type': 'Point', 'coordinates': [-1.0912028, 51.2057651]}",1,ecommerce,5,2007.0,100545.71779036814,Basingstoke
 4140,eFiberTools,-112.079055,33.681664,"{'type': 'Point', 'coordinates': [-112.079055, 33.681664]}",1,ecommerce,15,2007.0,0.0,Phoenix
 4141,VideoBloom,-104.903368,39.620872,"{'type': 'Point', 'coordinates': [-104.903368, 39.620872]}",1,ecommerce,20,2007.0,0.0,Greenwood Village
 4142,StoredIQ,-97.815012,30.213531,"{'type': 'Point', 'coordinates': [-97.815012, 30.213531]}",1,enterprise,60,2001.0,44500000.0,Austin
@@ -4424,7 +4424,7 @@
 4422,WiFilez,-74.005661,40.734331,"{'type': 'Point', 'coordinates': [-74.005661, 40.734331]}",1,,3,2002.0,0.0,New York
 4423,Internet Marketing Consultant,144.134544,-37.307999,"{'type': 'Point', 'coordinates': [144.134544, -37.307999]}",1,,2,2001.0,0.0,Hepburn Springs
 4424,InfTek,-78.7412642,35.7522668,"{'type': 'Point', 'coordinates': [-78.7412642, 35.7522668]}",2,network_hosting,14,2004.0,0.0,Cary
-4425,Rue89,2.3935987,48.8711089,"{'type': 'Point', 'coordinates': [2.3935987, 48.8711089]}",1,news,20,2007.0,2064480.000111069,
+4425,Rue89,2.3935987,48.8711089,"{'type': 'Point', 'coordinates': [2.3935987, 48.8711089]}",1,news,20,2007.0,2076439.9999367723,
 4426,Flaggpole,-122.347276,47.620973,"{'type': 'Point', 'coordinates': [-122.347276, 47.620973]}",1,web,4,2009.0,0.0,Seattle
 4427,Pixlr,18.0644881,59.3327881,"{'type': 'Point', 'coordinates': [18.0644881, 59.3327881]}",1,software,2,2008.0,0.0,Stockholm
 4428,Storan Technologies,-90.585513,38.766704,"{'type': 'Point', 'coordinates': [-90.585513, 38.766704]}",1,,14,,0.0,Saint Louis
@@ -4475,7 +4475,7 @@
 4473,Driven Action,115.90154,-31.91998,"{'type': 'Point', 'coordinates': [115.90154, -31.91998]}",1,consulting,47,2007.0,0.0,Nashville
 4474,White House Business Solutions,80.2519224,13.080128,"{'type': 'Point', 'coordinates': [80.2519224, 13.080128]}",1,software,300,1999.0,0.0,Chennai
 4475,Nalts Consulting,-75.1135236,40.3113504,"{'type': 'Point', 'coordinates': [-75.1135236, 40.3113504]}",1,consulting,1,2009.0,0.0,Doylestown
-4476,VISup,9.2114266,45.4650967,"{'type': 'Point', 'coordinates': [9.2114266, 45.4650967]}",1,software,8,2007.0,39270.00000211273,MILANO
+4476,VISup,9.2114266,45.4650967,"{'type': 'Point', 'coordinates': [9.2114266, 45.4650967]}",1,software,8,2007.0,39497.4999987973,MILANO
 4477,Altera,-121.9369827,37.4000693,"{'type': 'Point', 'coordinates': [-121.9369827, 37.4000693]}",1,semiconductor,2760,1983.0,0.0,San Jose
 4478,Hands,-43.1778306,-22.9063829,"{'type': 'Point', 'coordinates': [-43.1778306, -22.9063829]}",2,mobile,22,1999.0,0.0,Rio de Janeiro
 4479,ArtNeighbor,-73.9918181,40.7489381,"{'type': 'Point', 'coordinates': [-73.9918181, 40.7489381]}",1,web,5,2009.0,0.0,New York City
@@ -4486,7 +4486,7 @@
 4484,Sunrun,-122.4041075,37.7871306,"{'type': 'Point', 'coordinates': [-122.4041075, 37.7871306]}",1,cleantech,180,2007.0,337000000.0,San Francisco
 4485,Primediart,88.40286,22.5985389,"{'type': 'Point', 'coordinates': [88.40286, 22.5985389]}",1,software,10,2008.0,0.0,Kolkata
 4486,Merchantrms,-79.2354377,43.7896181,"{'type': 'Point', 'coordinates': [-79.2354377, 43.7896181]}",1,ecommerce,117,2005.0,0.0,Toronto
-4487,Kwaga,2.3389864,48.8318497,"{'type': 'Point', 'coordinates': [2.3389864, 48.8318497]}",1,messaging,10,2008.0,2412300.0001297817,Paris
+4487,Kwaga,2.3389864,48.8318497,"{'type': 'Point', 'coordinates': [2.3389864, 48.8318497]}",1,messaging,10,2008.0,2426274.9999261196,Paris
 4488,TOFA - Token of Appreciation,-80.0590804,26.6188279,"{'type': 'Point', 'coordinates': [-80.0590804, 26.6188279]}",1,other,5,2008.0,0.0,Lake Worth
 4489,ClickFuel,-71.0680027,42.3406534,"{'type': 'Point', 'coordinates': [-71.0680027, 42.3406534]}",1,advertising,20,2009.0,9000000.0,Burlington
 4490,sipgate,-122.4020588,37.7919639,"{'type': 'Point', 'coordinates': [-122.4020588, 37.7919639]}",1,public_relations,4,2008.0,0.0,San Francisco
@@ -4608,8 +4608,8 @@
 4606,General Dynamics,-77.217416,38.8712205,"{'type': 'Point', 'coordinates': [-77.217416, 38.8712205]}",1,transportation,92900,1952.0,84900000.0,Falls Church
 4607,HomePros,-97.739316,30.43385,"{'type': 'Point', 'coordinates': [-97.739316, 30.43385]}",1,software,15,2008.0,0.0,Austin
 4608,Solix Biofuels,-105.0766501,40.5932386,"{'type': 'Point', 'coordinates': [-105.0766501, 40.5932386]}",1,cleantech,50,2009.0,68800000.0,Fort Collins
-4609,ExtraFootie,4.348295,50.8263475,"{'type': 'Point', 'coordinates': [4.348295, 50.8263475]}",1,web,8,2007.0,336600.0000181091,Brussels
-4610,Ykone,2.3509871,48.8566667,"{'type': 'Point', 'coordinates': [2.3509871, 48.8566667]}",1,web,10,2009.0,1683000.0000905455,Paris
+4609,ExtraFootie,4.348295,50.8263475,"{'type': 'Point', 'coordinates': [4.348295, 50.8263475]}",1,web,8,2007.0,338549.99998969113,Brussels
+4610,Ykone,2.3509871,48.8566667,"{'type': 'Point', 'coordinates': [2.3509871, 48.8566667]}",1,web,10,2009.0,1692749.9999484557,Paris
 4611,Novelty Systems,-82.4102628,29.5950852,"{'type': 'Point', 'coordinates': [-82.4102628, 29.5950852]}",2,consulting,0,2008.0,0.0,Gainesville
 4612,Shades Shutters Blinds,-104.859929,39.37436,"{'type': 'Point', 'coordinates': [-104.859929, 39.37436]}",1,enterprise,5,1999.0,0.0,Castle Rock
 4613,youserbase,8.200653,53.14967,"{'type': 'Point', 'coordinates': [8.200653, 53.14967]}",1,network_hosting,2,2009.0,0.0,Oldenburg
@@ -4624,17 +4624,17 @@
 4622,Avantium Technologies,4.8516964,52.3965603,"{'type': 'Point', 'coordinates': [4.8516964, 52.3965603]}",1,cleantech,200,2000.0,61900000.0,Amsterdam
 4623,Rabbit Technologies,-0.27548,51.55738,"{'type': 'Point', 'coordinates': [-0.27548, 51.55738]}",1,software,10,2007.0,0.0,London
 4624,Recreax,5.1730329,51.0966039,"{'type': 'Point', 'coordinates': [5.1730329, 51.0966039]}",1,other,3,2009.0,0.0,Ham
-4625,BetKlub,2.3639174,48.8787606,"{'type': 'Point', 'coordinates': [2.3639174, 48.8787606]}",1,games_video,3,2008.0,102102.00000549309,Paris
+4625,BetKlub,2.3639174,48.8787606,"{'type': 'Point', 'coordinates': [2.3639174, 48.8787606]}",1,games_video,3,2008.0,102693.49999687298,Paris
 4626,Brite Green Janitorial Services,-84.2965,33.7749,"{'type': 'Point', 'coordinates': [-84.2965, 33.7749]}",1,other,3,2008.0,0.0,Decatur
-4627,Posh Eyes,-1.2219376,51.7300998,"{'type': 'Point', 'coordinates': [-1.2219376, 51.7300998]}",1,ecommerce,3,2002.0,2495.3295970209315,Oxford
+4627,Posh Eyes,-1.2219376,51.7300998,"{'type': 'Point', 'coordinates': [-1.2219376, 51.7300998]}",1,ecommerce,3,2002.0,2513.6429447592036,Oxford
 4628,Enternships,-0.1038219,51.5215279,"{'type': 'Point', 'coordinates': [-0.1038219, 51.5215279]}",1,web,15,2009.0,0.0,London
 4629,B32TRUST,2.3509871,48.8566667,"{'type': 'Point', 'coordinates': [2.3509871, 48.8566667]}",1,software,10,2008.0,0.0,Paris
-4630,Kimengi,4.8852747,52.3735592,"{'type': 'Point', 'coordinates': [4.8852747, 52.3735592]}",1,web,5,2008.0,280500.0000150909,Amsterdam
+4630,Kimengi,4.8852747,52.3735592,"{'type': 'Point', 'coordinates': [4.8852747, 52.3735592]}",1,web,5,2008.0,282124.9999914093,Amsterdam
 4631,StepChange Group,-122.6802223,45.5265721,"{'type': 'Point', 'coordinates': [-122.6802223, 45.5265721]}",1,advertising,10,2007.0,0.0,Portland
 4632,LigoCyte Pharmaceuticals,-111.0662396,45.6686485,"{'type': 'Point', 'coordinates': [-111.0662396, 45.6686485]}",1,biotech,45,1998.0,42100000.0,Bozeman
 4633,Anacor Pharmaceutical,-122.10649,37.431409,"{'type': 'Point', 'coordinates': [-122.10649, 37.431409]}",1,biotech,31,2000.0,192000000.0,Palo Alto
 4634,Baobaz,2.351824,48.8659957,"{'type': 'Point', 'coordinates': [2.351824, 48.8659957]}",1,advertising,60,2000.0,0.0,Paris
-4635,oneDrum,-0.1262362,51.5001524,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",2,enterprise,5,2008.0,1247664.7985104658,London
+4635,oneDrum,-0.1262362,51.5001524,"{'type': 'Point', 'coordinates': [-0.1262362, 51.5001524]}",2,enterprise,5,2008.0,1256821.4723796018,London
 4636,Smarta,-0.1326886,51.5201309,"{'type': 'Point', 'coordinates': [-0.1326886, 51.5201309]}",1,enterprise,10,,0.0,London
 4637,UTOPY,-122.411157,37.767575,"{'type': 'Point', 'coordinates': [-122.411157, 37.767575]}",1,software,40,1999.0,7500000.0,San Francisco
 4638,Idealo,13.4089986,52.5325472,"{'type': 'Point', 'coordinates': [13.4089986, 52.5325472]}",1,ecommerce,200,2001.0,0.0,Berlin
@@ -4646,14 +4646,14 @@
 4644,Kvittar,12.9950742,55.6057989,"{'type': 'Point', 'coordinates': [12.9950742, 55.6057989]}",1,web,4,2009.0,0.0,Malmö
 4645,Layar,4.8928722,52.3657578,"{'type': 'Point', 'coordinates': [4.8928722, 52.3657578]}",1,mobile,32,2009.0,13400000.0,Amsterdam
 4646,Multiso Multimedia Solutions,15.2591055,46.2347396,"{'type': 'Point', 'coordinates': [15.2591055, 46.2347396]}",1,games_video,1,2008.0,0.0,Celje
-4647,NAVX,2.287772,48.8988968,"{'type': 'Point', 'coordinates': [2.287772, 48.8988968]}",2,automotive,25,2005.0,3478200.0001871274,Levallois-Perret
+4647,NAVX,2.287772,48.8988968,"{'type': 'Point', 'coordinates': [2.287772, 48.8988968]}",2,automotive,25,2005.0,3498349.999893475,Levallois-Perret
 4648,Peekspy,103.8510535,1.3427648,"{'type': 'Point', 'coordinates': [103.8510535, 1.3427648]}",1,web,5,2008.0,0.0,Singapore
 4649,PicFog,-0.2867703,51.4770982,"{'type': 'Point', 'coordinates': [-0.2867703, 51.4770982]}",1,search,1,2009.0,0.0,London
 4650,OnlineMQ,4.3016891,52.0889889,"{'type': 'Point', 'coordinates': [4.3016891, 52.0889889]}",1,software,5,2008.0,0.0,Den-Haag
-4651,Webtrekk,13.3813542,52.5279255,"{'type': 'Point', 'coordinates': [13.3813542, 52.5279255]}",1,advertising,25,2003.0,1122000.0000603637,Berlin
+4651,Webtrekk,13.3813542,52.5279255,"{'type': 'Point', 'coordinates': [13.3813542, 52.5279255]}",1,advertising,25,2003.0,1128499.9999656372,Berlin
 4652,MicroVision,-122.0943198,47.6614954,"{'type': 'Point', 'coordinates': [-122.0943198, 47.6614954]}",1,hardware,110,1993.0,110000000.0,Redmond
 4653,Luca Technologies,-105.192312,39.720088,"{'type': 'Point', 'coordinates': [-105.192312, 39.720088]}",2,biotech,72,2001.0,98900000.0,Golden
-4654,Tagmore Solutions,-3.6883074,40.4226918,"{'type': 'Point', 'coordinates': [-3.6883074, 40.4226918]}",1,mobile,15,2007.0,280500.0000150909,Madrid
+4654,Tagmore Solutions,-3.6883074,40.4226918,"{'type': 'Point', 'coordinates': [-3.6883074, 40.4226918]}",1,mobile,15,2007.0,282124.9999914093,Madrid
 4655,Taxi Fares app,-3.6990948,40.4244585,"{'type': 'Point', 'coordinates': [-3.6990948, 40.4244585]}",1,software,5,2009.0,0.0,Madrid
 4656,Steppy Frog Design Studio,80.226749,13.1115592,"{'type': 'Point', 'coordinates': [80.226749, 13.1115592]}",1,ecommerce,50,2008.0,0.0,Chennai
 4657,DSwiss,8.5142125,47.376362,"{'type': 'Point', 'coordinates': [8.5142125, 47.376362]}",1,web,10,2008.0,0.0,ZÃ¼rich
@@ -4663,7 +4663,7 @@
 4661,Catalyst Biosciences,-122.394464,37.645401,"{'type': 'Point', 'coordinates': [-122.394464, 37.645401]}",1,biotech,50,2003.0,95900000.0,South San Francisco
 4662,Fitness Perfection,-76.850844,38.881576,"{'type': 'Point', 'coordinates': [-76.850844, 38.881576]}",1,other,1,2008.0,0.0,Capitol Heights
 4663,Mint.com,-122.078727,37.392392,"{'type': 'Point', 'coordinates': [-122.078727, 37.392392]}",1,finance,31,2006.0,31800000.0,Mountain View
-4664,Lipperhey,4.9345824,52.3655578,"{'type': 'Point', 'coordinates': [4.9345824, 52.3655578]}",1,software,6,2009.0,224400.00001207273,Amsterdam
+4664,Lipperhey,4.9345824,52.3655578,"{'type': 'Point', 'coordinates': [4.9345824, 52.3655578]}",1,software,6,2009.0,225699.99999312742,Amsterdam
 4665,Gross Domestic Product,-118.387462,33.901344,"{'type': 'Point', 'coordinates': [-118.387462, 33.901344]}",1,other,4,2008.0,0.0,Manhattan Beach
 4666,City Network Hosting,15.5835706,56.1617201,"{'type': 'Point', 'coordinates': [15.5835706, 56.1617201]}",1,network_hosting,11,2002.0,0.0,Karlskrona
 4667,iBizLog,-115.4977708,36.0122687,"{'type': 'Point', 'coordinates': [-115.4977708, 36.0122687]}",1,ecommerce,5,2008.0,0.0,Las Vegas
@@ -4696,7 +4696,7 @@
 4694,Blue Bite,-76.908796,42.958587,"{'type': 'Point', 'coordinates': [-76.908796, 42.958587]}",1,advertising,10,2007.0,0.0,New York
 4695,Myhive,-0.1996418,51.5514688,"{'type': 'Point', 'coordinates': [-0.1996418, 51.5514688]}",1,mobile,6,2009.0,0.0,London
 4696,Mobiles Republic,-0.5754294,44.8743952,"{'type': 'Point', 'coordinates': [-0.5754294, 44.8743952]}",1,mobile,25,2008.0,9000000.0,Bordeaux Cedex
-4697,ubigrate,13.7759644,51.0343624,"{'type': 'Point', 'coordinates': [13.7759644, 51.0343624]}",1,software,12,2008.0,561000.0000301818,Dresden
+4697,ubigrate,13.7759644,51.0343624,"{'type': 'Point', 'coordinates': [13.7759644, 51.0343624]}",1,software,12,2008.0,564249.9999828186,Dresden
 4698,SpectraLinear,-121.963705,37.383777,"{'type': 'Point', 'coordinates': [-121.963705, 37.383777]}",2,semiconductor,32,2006.0,39000000.0,
 4699,Affiliated Computer Services,-96.797111,32.781078,"{'type': 'Point', 'coordinates': [-96.797111, 32.781078]}",1,consulting,74000,1988.0,0.0,Dallas
 4700,8th Light,-88.002035,42.300188,"{'type': 'Point', 'coordinates': [-88.002035, 42.300188]}",1,software,10,2006.0,0.0,Libertyville
@@ -4708,13 +4708,13 @@
 4706,FireScope,-118.012553,33.664705,"{'type': 'Point', 'coordinates': [-118.012553, 33.664705]}",4,software,65,2006.0,9910000.0,Huntington Beach
 4707,Advanced Manufacturing Control Systems,-8.44692,52.5155,"{'type': 'Point', 'coordinates': [-8.44692, 52.5155]}",1,hardware,26,2003.0,8760000.0,Co. Limerick
 4708,DoTradeEasy,-0.1043766,51.5270568,"{'type': 'Point', 'coordinates': [-0.1043766, 51.5270568]}",1,advertising,10,2008.0,0.0,London
-4709,Woodland Biofuels,-79.6944325,43.6455935,"{'type': 'Point', 'coordinates': [-79.6944325, 43.6455935]}",1,cleantech,7,2000.0,953238.6324900775,Ontario
+4709,Woodland Biofuels,-79.6944325,43.6455935,"{'type': 'Point', 'coordinates': [-79.6944325, 43.6455935]}",1,cleantech,7,2000.0,957329.4876271273,Ontario
 4710,cost4travel,-3.6149394,40.4528711,"{'type': 'Point', 'coordinates': [-3.6149394, 40.4528711]}",1,web,2,,0.0,Madrid
 4711,Vision One Convergence Group,-95.572583,29.738239,"{'type': 'Point', 'coordinates': [-95.572583, 29.738239]}",2,public_relations,24,1995.0,0.0,Houston
 4712,Michigan Virtual Law,-83.145008,42.495949,"{'type': 'Point', 'coordinates': [-83.145008, 42.495949]}",1,legal,8,2008.0,0.0,Royal Oak
 4713,Minuteglass,-111.980855,33.479692,"{'type': 'Point', 'coordinates': [-111.980855, 33.479692]}",1,software,3,,0.0,Phoenix
 4714,Onset Technology,-71.256368,42.39526,"{'type': 'Point', 'coordinates': [-71.256368, 42.39526]}",1,public_relations,45,1997.0,3000000.0,Waltham
-4715,Maxymiser,-3.2151393,55.9485591,"{'type': 'Point', 'coordinates': [-3.2151393, 55.9485591]}",1,enterprise,250,2006.0,17467307.17914652,New York
+4715,Maxymiser,-3.2151393,55.9485591,"{'type': 'Point', 'coordinates': [-3.2151393, 55.9485591]}",1,enterprise,250,2006.0,17595500.613314427,New York
 4716,GiGHive,-87.81884,42.583426,"{'type': 'Point', 'coordinates': [-87.81884, 42.583426]}",1,network_hosting,3,2007.0,0.0,Kenosha
 4717,Struq,-0.1366861,51.5152023,"{'type': 'Point', 'coordinates': [-0.1366861, 51.5152023]}",2,advertising,50,2008.0,8500000.0,London
 4718,Solairedirect,2.3210737,48.8745951,"{'type': 'Point', 'coordinates': [2.3210737, 48.8745951]}",1,cleantech,150,2006.0,26600000.0,Paris
@@ -4788,7 +4788,7 @@
 4786,Sanera,-122.02719,37.39547,"{'type': 'Point', 'coordinates': [-122.02719, 37.39547]}",1,network_hosting,89,2000.0,0.0,Sunnyvale
 4787,Genesiz,-73.990675,40.752143,"{'type': 'Point', 'coordinates': [-73.990675, 40.752143]}",1,ecommerce,60,,0.0,New York
 4788,Continuity Engine,-73.2435522,41.3279176,"{'type': 'Point', 'coordinates': [-73.2435522, 41.3279176]}",1,software,11,2008.0,7840000.0,New Haven
-4789,FundRazr,-123.1092622,49.2843936,"{'type': 'Point', 'coordinates': [-123.1092622, 49.2843936]}",1,social,6,2008.0,247842.04444742016,Vancouver
+4789,FundRazr,-123.1092622,49.2843936,"{'type': 'Point', 'coordinates': [-123.1092622, 49.2843936]}",1,social,6,2008.0,248905.6667830531,Vancouver
 4790,Pipit Interactive,-118.47036,34.045499,"{'type': 'Point', 'coordinates': [-118.47036, 34.045499]}",1,ecommerce,10,2008.0,900000.0,Los Angeles
 4791,pTracker,-97.745209,30.268735,"{'type': 'Point', 'coordinates': [-97.745209, 30.268735]}",1,mobile,2,2009.0,0.0,Austin
 4792,Bookwhen,-1.2581049,51.7714264,"{'type': 'Point', 'coordinates': [-1.2581049, 51.7714264]}",1,ecommerce,2,2009.0,0.0,Oxford
@@ -4818,7 +4818,7 @@
 4816,Vertro,-74.006023,40.72616,"{'type': 'Point', 'coordinates': [-74.006023, 40.72616]}",2,software,50,1998.0,250000.0,New York
 4817,Savvion,-121.9801441,37.4035237,"{'type': 'Point', 'coordinates': [-121.9801441, 37.4035237]}",1,software,160,1994.0,0.0,Santa Clara
 4818,Jelli,-122.321836,37.55909,"{'type': 'Point', 'coordinates': [-122.321836, 37.55909]}",1,enterprise,12,2008.0,16600000.000000002,San Mateo
-4819,PubliAtis,2.3406954,48.8699947,"{'type': 'Point', 'coordinates': [2.3406954, 48.8699947]}",1,software,10,2006.0,1122000.0000603637,PARIS
+4819,PubliAtis,2.3406954,48.8699947,"{'type': 'Point', 'coordinates': [2.3406954, 48.8699947]}",1,software,10,2006.0,1128499.9999656372,PARIS
 4820,Inventa Technologies,-74.896402,39.964395,"{'type': 'Point', 'coordinates': [-74.896402, 39.964395]}",1,software,207,1993.0,0.0,Mount Laurel
 4821,ANTs Software,-122.347654,37.590056,"{'type': 'Point', 'coordinates': [-122.347654, 37.590056]}",1,software,3,1979.0,28300000.0,Dunwoody
 4822,Gastrogate,16.5595393,59.617364,"{'type': 'Point', 'coordinates': [16.5595393, 59.617364]}",1,web,12,1999.0,0.0,VÃ¤sterÃ¥s
@@ -4835,6 +4835,6 @@
 4833,SEO Sumo,-80.306331,25.723408,"{'type': 'Point', 'coordinates': [-80.306331, 25.723408]}",1,public_relations,5,2009.0,0.0,Miami
 4834,acrossair,-0.1165365,51.5177425,"{'type': 'Point', 'coordinates': [-0.1165365, 51.5177425]}",1,mobile,6,2009.0,0.0,London
 4835,MyChances,-119.8120795,39.394564,"{'type': 'Point', 'coordinates': [-119.8120795, 39.394564]}",2,consulting,2,2009.0,0.0,Reno
-4836,Getyoo,4.3464721,50.83997,"{'type': 'Point', 'coordinates': [4.3464721, 50.83997]}",1,mobile,10,2009.0,1267860.000068211,Brussels
+4836,Getyoo,4.3464721,50.83997,"{'type': 'Point', 'coordinates': [4.3464721, 50.83997]}",1,mobile,10,2009.0,1275204.99996117,Brussels
 4837,QSGI,-80.041395,26.705331,"{'type': 'Point', 'coordinates': [-80.041395, 26.705331]}",1,software,164,1967.0,0.0,Palm Beach
 4838,Willdan Group,-117.882314,33.806525,"{'type': 'Point', 'coordinates': [-117.882314, 33.806525]}",1,other,385,,0.0,Anaheim
