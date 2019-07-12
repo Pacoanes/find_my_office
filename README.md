@@ -22,12 +22,15 @@ ___
 
 Recursos   | Descripción | Logo 
 ---------- | ----------- | ----
-Folium     | Todos los mapas han sido realizados en Folium. |
-Google Places API | Usamos esta API encontrar una oficina real en la locación ideal y para encontrar puntos de interes cercanos. |
-Meetup API |  Para poder conocer eventos geolocalizados cerca y filtrados por temática. | ![Meetup for Android logo](https://theme.zdassets.com/theme_assets/2041222/c3ea09fd3c3bd646257ea97a6083bf5f45807354.png)
-GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa tiene mas empresas cerca con un radio determinado. |
+Folium     | Todos los mapas han sido realizados en Folium. |![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/folium.png)
+Google Places API | Usamos esta API encontrar una oficina real en la locación ideal y para encontrar puntos de interes cercanos. | ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/gapi.png)
+Meetup API |  Para poder conocer eventos geolocalizados cerca y filtrados por temática. | ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/meetup.png)
+GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa tiene mas empresas cerca con un radio determinado. | ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/mongodb.png)
 
 **Resultado final:** 
 ___
 
-![mapa](https://github.com/Pacoanes/find_my_office/blob/master/Map.png)
+![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/map.png)
+
+
+
