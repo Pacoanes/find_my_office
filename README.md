@@ -31,7 +31,7 @@ GeoQueries Mongodb | Realizando una Query con $near podemos saber que empresa ti
 ___
 
 ![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/map.png)
-![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/top15ciudades.png)
+![mapa](https://github.com/Pacoanes/find_my_office/blob/master/images/top15ciudad.png)
 
 
 
